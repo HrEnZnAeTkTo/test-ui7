@@ -300,15 +300,18 @@ async function loadMetroMap() {
         
         const svgContent = await response.text();
         const container = document.getElementById('svg-container');
-        if (container) {
-            container.innerHTML = svgContent;
+        if (svgElement) {
+            // Убираем фиксированные размеры
+            svgElement.style.width = '100%';
+            svgElement.style.height = '100%';
+            svgElement.style.cursor = isMobile ? 'default' : 'grab';
+            svgElement.style.touchAction = 'none';
             
-            svgElement = container.querySelector('svg');
-            if (svgElement) {
-                svgElement.style.width = '500%';
-                svgElement.style.height = '500%';
-                svgElement.style.cursor = isMobile ? 'default' : 'grab';
-                svgElement.style.touchAction = 'none';
+            // Устанавливаем viewBox, если его нет
+            if (!svgElement.getAttribute('viewBox')) {
+                svgElement.setAttribute('viewBox', '-400 -500 2400 2100');
+            }
+            svgElement.setAttribute('preserveAspectRatio', 'xMidYMid meet');
                 
                 // Настраиваем станции в загруженном SVG
                 setupStationsFromSVG();
@@ -1088,4 +1091,5 @@ if (document.readyState === 'loading') {
 }
 
 // Start real-time updates
+
 startRealTimeUpdates();
