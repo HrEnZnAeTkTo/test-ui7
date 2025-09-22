@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.8528335"
-     inkscape:cx="1003.7389"
-     inkscape:cy="30.320732"
+     inkscape:zoom="0.96948859"
+     inkscape:cx="454.36327"
+     inkscape:cy="412.07293"
      inkscape:window-width="1352"
      inkscape:window-height="844"
      inkscape:window-x="0"
@@ -560,7 +560,7 @@
        stroke-linecap="round"
        stroke-width="2.8250360076367955" />
     <path
-       id="inch_Kievskaya_3_4_5"
+       id="inch_Kievskaya_5"
        d="M 576 480 591.52 506.6666666666667 576 533.3333333333334 576 480"
        class="route"
        mclass="inch"
@@ -570,7 +570,7 @@
        stroke-linecap="round"
        stroke-width="15.537698042002376" />
     <path
-       id="inch_Kievskaya_3_4_5_d"
+       id="inch_Kievskaya_d"
        d="M 576 480 591.52 506.6666666666667 576 533.3333333333334 576 480"
        class="route"
        mclass="inch"
@@ -702,7 +702,7 @@
        stroke-linecap="round"
        stroke-width="9.887626026728785" />
     <path
-       id="inch_Kurskaya_3__Kurskaya_5__Chkalov"
+       id="inch_Kurskaya__Kurskaya__Chkalov"
        d="M 1292.1066666666666 478.56 1328.1599999999999 508.96 1292.1066666666666 536.16 1292.1066666666666 478.56"
        class="route"
        mclass="inch"
@@ -712,7 +712,7 @@
        stroke-linecap="round"
        stroke-width="15.537698042002376" />
     <path
-       id="inch_Kurskaya_3__Kurskaya_5__Chkalov_d"
+       id="inch_Kurskaya__Kurskaya__Chkalov_d"
        d="M 1292.1066666666666 478.56 1328.1599999999999 508.96 1292.1066666666666 536.16 1292.1066666666666 478.56"
        class="route"
        mclass="inch"
@@ -2075,9 +2075,9 @@
        stroke-linecap="round"
        stroke-width="1.4125180038183978" />
     <circle
-       id="s1_12_Bulvar_Rokossovskogo"
+       id="line1_Bulvar_Rokossovskogo"
        class="station"
-       mclass="s1_8"
+       mclass="line1_8"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2088,7 +2088,7 @@
          id="title163">station</title>
     </circle>
     <text
-       id="ts1_8_Bulvar_Rokossovskogo"
+       id="tline1_Bulvar_Rokossovskogo"
        class="station"
        x="1397.9668106972138"
        y="10.03318930278619"
@@ -2098,9 +2098,9 @@
        text-anchor="start"
        cursor="pointer">Б-р Рокоссовского</text>
     <circle
-       id="s1_12_Cherkizovskaya"
+       id="line1_Cherkizovskaya"
        class="station"
-       mclass="s1_8"
+       mclass="line1_8"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2111,7 +2111,7 @@
          id="title162">station</title>
     </circle>
     <text
-       id="ts1_8_Cherkizovskaya"
+       id="tline1_Cherkizovskaya"
        class="station"
        x="1447.566810697214"
        y="51.099855969452854"
@@ -2121,9 +2121,9 @@
        text-anchor="start"
        cursor="pointer">Черкизовская</text>
     <circle
-       id="s1_12_Preobrazhenskaya_Pl"
+       id="line1_Preobrazhenskaya_Pl"
        class="station"
-       mclass="s1"
+       mclass="line1"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2134,7 +2134,7 @@
          id="title161">station</title>
     </circle>
     <text
-       id="ts1_Preobrazhenskaya_Pl"
+       id="tline1_Preobrazhenskaya_Pl"
        class="station"
        x="1419.3001440305472"
        y="96.31673868194028"
@@ -2144,9 +2144,9 @@
        text-anchor="start"
        cursor="pointer">Преображенская площадь</text>
     <circle
-       id="s1_12_Sokolniki"
+       id="line1_Sokolniki"
        class="station"
-       mclass="s1_1"
+       mclass="line1_1"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2157,7 +2157,7 @@
          id="title160">station</title>
     </circle>
     <text
-       id="ts1_1_Sokolniki"
+       id="tline1_Sokolniki"
        class="station"
        x="1378.6068106972139"
        y="137.06340534860695"
@@ -2167,9 +2167,9 @@
        text-anchor="start"
        cursor="pointer">Сокольники</text>
     <circle
-       id="s1_12_Krasnoselskaya"
+       id="line1_Krasnoselskaya"
        class="station"
-       mclass="s1"
+       mclass="line1"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2180,7 +2180,7 @@
          id="title159">station</title>
     </circle>
     <text
-       id="ts1_Krasnoselskaya"
+       id="tline1_Krasnoselskaya"
        class="station"
        x="1336.7401440305473"
        y="178.87673868194028"
@@ -2191,9 +2191,9 @@
        cursor="pointer"
        transform="scale(1)">Красносельская</text>
     <circle
-       id="s1_12_Komsomolskaya"
+       id="line1_Komsomolskaya"
        class="station"
-       mclass="s1_1"
+       mclass="line1_1"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2204,7 +2204,7 @@
          id="title158">station</title>
     </circle>
     <text
-       id="ts1_1_Komsomolskaya"
+       id="tline1_Komsomolskaya"
        class="station"
        x="1291.3001440305472"
        y="224.31673868194028"
@@ -2215,7 +2215,7 @@
        cursor="pointer"
        transform="scale(1)">Комсомольская</text>
     <circle
-       id="s1_12_Krasniye_Vorota"
+       id="line1_Krasniye_Vorota"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2228,7 +2228,7 @@
          id="title157">station</title>
     </circle>
     <text
-       id="ts1_Krasniye_Vorota"
+       id="tline1_Krasniye_Vorota"
        class="station"
        x="1232.046810697214"
        y="283.5700720152736"
@@ -2239,9 +2239,9 @@
        cursor="pointer"
        transform="scale(1)">Красные ворота</text>
     <circle
-       id="s1_12_Chistye_Prudy"
+       id="line1_Chistye_Prudy"
        class="station"
-       mclass="s1_1"
+       mclass="line1_1"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2252,7 +2252,7 @@
          id="title156">station</title>
     </circle>
     <text
-       id="ts1_1_Chistye_Prudy"
+       id="tline1_Chistye_Prudy"
        class="station"
        x="1157.966810697214"
        y="352.31673868194025"
@@ -2263,9 +2263,9 @@
        cursor="pointer"
        transform="scale(1)">Чистые пруды</text>
     <circle
-       id="s1_12_Lubyanka"
+       id="line1_Lubyanka"
        class="station"
-       mclass="s1_2"
+       mclass="line1_2"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2276,7 +2276,7 @@
          id="title155">station</title>
     </circle>
     <text
-       id="ts1_2_Lubyanka"
+       id="tline1_Lubyanka"
        class="station"
        x="1007.2081532951494"
        y="376.31673868194025"
@@ -2286,9 +2286,9 @@
        text-anchor="end"
        cursor="pointer">Лубянка</text>
     <circle
-       id="s1_6_12_Okhotny_Ryad"
+       id="line1_Okhotny_Ryad"
        class="station"
-       mclass="s1_1"
+       mclass="line1_1"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2299,7 +2299,7 @@
          id="title26">station</title>
     </circle>
     <text
-       id="ts1_1_Okhotny_Ryad"
+       id="tline1_Okhotny_Ryad"
        class="station"
        x="951.0334773638805"
        y="457.3834053486069"
@@ -2309,9 +2309,9 @@
        text-anchor="start"
        cursor="pointer">Охотный ряд</text>
     <circle
-       id="s1_1_12_Biblioteka_Im_Lenina"
+       id="line1_Biblioteka_Im_Lenina"
        class="station"
-       mclass="s1_4"
+       mclass="line1_4"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2322,7 +2322,7 @@
          id="title77">station</title>
     </circle>
     <text
-       id="ts1_4_Biblioteka_Im_Lenina"
+       id="tline1_Biblioteka_Im_Lenina"
        class="station"
        x="896.6334773638805"
        y="529.266954727761"
@@ -2332,9 +2332,9 @@
        text-anchor="start"
        cursor="pointer">Б. им. Ленина</text>
     <circle
-       id="s1_12_Kropotkinskaya"
+       id="line1_Kropotkinskaya"
        class="station"
-       mclass="s1_1"
+       mclass="line1_1"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2345,7 +2345,7 @@
          id="title153">station</title>
     </circle>
     <text
-       id="ts1_1_Kropotkinskaya"
+       id="tline1_Kropotkinskaya"
        class="station"
        x="812.2068106972139"
        y="596.7434053486069"
@@ -2355,9 +2355,9 @@
        text-anchor="start"
        cursor="pointer">Кропоткинская</text>
     <circle
-       id="s1_12_Park_Kultury"
+       id="line1_Park_Kultury"
        class="station"
-       mclass="s1_2"
+       mclass="line1_2"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2368,7 +2368,7 @@
          id="title152">station</title>
     </circle>
     <text
-       id="ts1_2_Park_Kultury"
+       id="tline1_Park_Kultury"
        class="station"
        x="663.2081532951494"
        y="720.3167386819403"
@@ -2378,7 +2378,7 @@
        text-anchor="end"
        cursor="pointer">Парк Культуры</text>
     <circle
-       id="s1_12_Frunzenskaya"
+       id="line1_Frunzenskaya"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2391,7 +2391,7 @@
          id="title151">station</title>
     </circle>
     <text
-       id="ts1_Frunzenskaya"
+       id="tline1_Frunzenskaya"
        class="station"
        x="608.6334773638805"
        y="800.3167386819403"
@@ -2401,7 +2401,7 @@
        text-anchor="start"
        cursor="pointer">Фрунзенская</text>
     <circle
-       id="s1_12_Sportivnaya"
+       id="line1_Sportivnaya"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2414,7 +2414,7 @@
          id="title150">station</title>
     </circle>
     <text
-       id="ts1_Sportivnaya"
+       id="tline1_Sportivnaya"
        class="station"
        x="539.3001440305471"
        y="869.6500720152736"
@@ -2424,7 +2424,7 @@
        text-anchor="start"
        cursor="pointer">Спортивная</text>
     <circle
-       id="s1_12_Vorobyovy_Gory"
+       id="line1_Vorobyovy_Gory"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2437,7 +2437,7 @@
          id="title149">station</title>
     </circle>
     <text
-       id="ts1_Vorobyovy_Gory"
+       id="tline1_Vorobyovy_Gory"
        class="station"
        x="453.96681069721393"
        y="954.9834053486069"
@@ -2447,7 +2447,7 @@
        text-anchor="start"
        cursor="pointer">Воробьёвы горы</text>
     <circle
-       id="s1_12_Universitet"
+       id="line1_Universitet"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2460,7 +2460,7 @@
          id="title148">station</title>
     </circle>
     <text
-       id="ts1_Universitet"
+       id="tline1_Universitet"
        class="station"
        x="421.96681069721393"
        y="986.9834053486069"
@@ -2470,9 +2470,9 @@
        text-anchor="start"
        cursor="pointer">Университет</text>
     <circle
-       id="s1_12_Prospekt_Vernadskogo"
+       id="line1_Prospekt_Vernadskogo"
        class="station"
-       mclass="s1_2"
+       mclass="line1_2"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2483,7 +2483,7 @@
          id="title147">station</title>
     </circle>
     <text
-       id="ts1_2_Prospekt_Vernadskogo"
+       id="tline1_Prospekt_Vernadskogo"
        class="station"
        x="359.2081532951494"
        y="1026.9834053486068"
@@ -2493,7 +2493,7 @@
        text-anchor="end"
        cursor="pointer">Пр-т Вернадского</text>
     <circle
-       id="s1_12_Yugo_Zapadnaya"
+       id="line1_Yugo_Zapadnaya"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2506,7 +2506,7 @@
          id="title146">station</title>
     </circle>
     <text
-       id="ts1_Yugo_Zapadnaya"
+       id="tline1_Yugo_Zapadnaya"
        class="station"
        x="368.63347736388056"
        y="1042.9834053486068"
@@ -2516,7 +2516,7 @@
        text-anchor="start"
        cursor="pointer">Юго-Западная</text>
     <circle
-       id="s1_12_Troparyovo"
+       id="line1_Troparyovo"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2529,7 +2529,7 @@
          id="title145">station</title>
     </circle>
     <text
-       id="ts1_Troparyovo"
+       id="tline1_Troparyovo"
        class="station"
        x="341.96681069721393"
        y="1069.6500720152735"
@@ -2539,7 +2539,7 @@
        text-anchor="start"
        cursor="pointer">Тропарёво</text>
     <circle
-       id="s1_12_Rumyantsevo"
+       id="line1_Rumyantsevo"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2552,7 +2552,7 @@
          id="title144">station</title>
     </circle>
     <text
-       id="ts1_Rumyantsevo"
+       id="tline1_Rumyantsevo"
        class="station"
        x="315.3001440305472"
        y="1097.9167386819402"
@@ -2562,7 +2562,7 @@
        text-anchor="start"
        cursor="pointer">Румянцево</text>
     <circle
-       id="s1_12_Salaryevo"
+       id="line1_Salaryevo"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2575,7 +2575,7 @@
          id="title143">station</title>
     </circle>
     <text
-       id="ts1_Salaryevo"
+       id="tline1_Salaryevo"
        class="station"
        x="288.63347736388056"
        y="1125.6500720152735"
@@ -2585,9 +2585,9 @@
        text-anchor="start"
        cursor="pointer">Саларьево</text>
     <circle
-       id="s1_12_Filatov_Lug"
+       id="line1_Filatov_Lug"
        class="station"
-       mclass="s1_5"
+       mclass="line1_5"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2598,7 +2598,7 @@
          id="title142">station</title>
     </circle>
     <text
-       id="ts1_5_Filatov_Lug"
+       id="tline1_Filatov_Lug"
        class="station"
        x="252.54148662848277"
        y="1168.31673868194"
@@ -2608,9 +2608,9 @@
        text-anchor="end"
        cursor="pointer">Филатов Луг</text>
     <circle
-       id="s1_12_Prokshino"
+       id="line1_Prokshino"
        class="station"
-       mclass="s1_5"
+       mclass="line1_5"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2621,7 +2621,7 @@
          id="title141">station</title>
     </circle>
     <text
-       id="ts1_5_Prokshino"
+       id="tline1_Prokshino"
        class="station"
        x="252.54148662848277"
        y="1210.9834053486068"
@@ -2631,9 +2631,9 @@
        text-anchor="end"
        cursor="pointer">Прокшино</text>
     <circle
-       id="s1_12_Olhovaya"
+       id="line1_Olhovaya"
        class="station"
-       mclass="s1_5"
+       mclass="line1_5"
        fill="#f5f5dc"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2644,7 +2644,7 @@
          id="title140">station</title>
     </circle>
     <text
-       id="ts1_5_Olhovaya"
+       id="tline1_Olhovaya"
        class="station"
        x="252.54148662848277"
        y="1248.31673868194"
@@ -2654,9 +2654,9 @@
        text-anchor="end"
        cursor="pointer">Ольховая</text>
     <circle
-       id="s1_12_Novomoskovskaya_Kom"
+       id="line1_Novomoskovskaya_Kom"
        class="station"
-       mclass="s1_2"
+       mclass="line1_2"
        fill="#ed1b35"
        stroke="#ed1b35"
        stroke-width="1.4125180038183978"
@@ -2667,7 +2667,7 @@
          id="title139">station</title>
     </circle>
     <circle
-       id="s1_12_Potapovo"
+       id="line1_Potapovo"
        class="station"
        mclass="s1"
        fill="#f5f5dc"
@@ -2680,7 +2680,7 @@
          id="title138">station</title>
     </circle>
     <text
-       id="ts1_Potapovo"
+       id="tline1_Potapovo"
        class="station"
        x="341.96681069721393"
        y="1370.9834053486068"
@@ -2690,7 +2690,7 @@
        text-anchor="start"
        cursor="pointer">Потапово</text>
     <circle
-       id="s2_6_Khovrino"
+       id="line2_Khovrino"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2703,7 +2703,7 @@
          id="title5">station</title>
     </circle>
     <text
-       id="ts2_Khovrino"
+       id="tline2_Khovrino"
        class="station"
        x="480.63347736388056"
        y="-202.3499279847264"
@@ -2713,7 +2713,7 @@
        text-anchor="start"
        cursor="pointer">Ховрино</text>
     <circle
-       id="s2_6_Belomorskaya"
+       id="line2_Belomorskaya"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2726,7 +2726,7 @@
          id="title6">station</title>
     </circle>
     <text
-       id="ts2_Belomorskaya"
+       id="tline2_Belomorskaya"
        class="station"
        x="480.63347736388056"
        y="-159.68326131805966"
@@ -2736,7 +2736,7 @@
        text-anchor="start"
        cursor="pointer">Беломорская</text>
     <circle
-       id="s2_6_Rechnoy_Vokzal"
+       id="line2_Rechnoy_Vokzal"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2749,7 +2749,7 @@
          id="title7">station</title>
     </circle>
     <text
-       id="ts2_Rechnoy_Vokzal"
+       id="tline2_Rechnoy_Vokzal"
        class="station"
        x="480.63347736388056"
        y="-117.01659465139304"
@@ -2759,9 +2759,9 @@
        text-anchor="start"
        cursor="pointer">Речной вокзал</text>
     <circle
-       id="s2_6_Vodny_Stadion"
+       id="line2_Vodny_Stadion"
        class="station"
-       mclass="s2_1"
+       mclass="line2_1"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2772,7 +2772,7 @@
          id="title8">station</title>
     </circle>
     <text
-       id="ts2_1_Vodny_Stadion"
+       id="tline2_Vodny_Stadion"
        class="station"
        x="515.9918467048507"
        y="-64"
@@ -2781,9 +2781,9 @@
        font-size="15.36"
        cursor="pointer">Водный ст-н</text>
     <circle
-       id="s2_6_Voykovskaya"
+       id="line2_Voykovskaya"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2794,7 +2794,7 @@
          id="title9">station</title>
     </circle>
     <text
-       id="ts2_4_Voykovskaya"
+       id="tline2_Voykovskaya"
        class="station"
        x="520.2748199618161"
        y="-26.34992798472641"
@@ -2804,7 +2804,7 @@
        text-anchor="end"
        cursor="pointer">Войковская</text>
     <circle
-       id="s2_6_Sokol"
+       id="line2_Sokol"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2817,7 +2817,7 @@
          id="title10">station</title>
     </circle>
     <text
-       id="ts2_Sokol"
+       id="tline2_Sokol"
        class="station"
        x="587.3001440305471"
        y="14.71673868194031"
@@ -2827,7 +2827,7 @@
        text-anchor="start"
        cursor="pointer">Сокол</text>
     <circle
-       id="s2_6_Aeroport"
+       id="line2_Aeroport"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2840,7 +2840,7 @@
          id="title11">station</title>
     </circle>
     <text
-       id="ts2_Aeroport"
+       id="tline2_Aeroport"
        class="station"
        x="629.9668106972139"
        y="56.530072015273646"
@@ -2850,9 +2850,9 @@
        text-anchor="start"
        cursor="pointer">Аэропорт</text>
     <circle
-       id="s2_4_6_Dinamo"
+       id="line2_Dinamo"
        class="station"
-       mclass="s2_2"
+       mclass="line2_2"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2863,7 +2863,7 @@
          id="title22">station</title>
     </circle>
     <text
-       id="ts2_2_Dinamo"
+       id="tline2_Dinamo"
        class="station"
        x="643.474819961816"
        y="94.71673868194031"
@@ -2873,9 +2873,9 @@
        text-anchor="end"
        cursor="pointer">Динамо</text>
     <circle
-       id="s2_6_Belorusskaya"
+       id="line2_Belorusskaya"
        class="station"
-       mclass="s2_3"
+       mclass="line2_3"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2886,7 +2886,7 @@
          id="title23">station</title>
     </circle>
     <circle
-       id="s2_6_Mayakovskaya"
+       id="line2_Mayakovskaya"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -2899,7 +2899,7 @@
          id="title24">station</title>
     </circle>
     <text
-       id="ts2_Mayakovskaya"
+       id="tline2_Mayakovskaya"
        class="station"
        x="805.9668106972139"
        y="250.98340534860694"
@@ -2909,9 +2909,9 @@
        text-anchor="start"
        cursor="pointer">Маяковская</text>
     <circle
-       id="s2_6_Tverskaya"
+       id="line2_Tverskaya"
        class="station"
-       mclass="s2_7"
+       mclass="line2_7"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2922,7 +2922,7 @@
          id="title25">station</title>
     </circle>
     <text
-       id="ts2_7_Tverskaya"
+       id="tline2_Tverskaya"
        class="station"
        x="791.2081532951494"
        y="342.6002880610944"
@@ -2933,9 +2933,9 @@
        cursor="pointer"
        transform="scale(1)">Тверская</text>
     <circle
-       id="s2_6_Teatralnaya"
+       id="line2_Teatralnaya"
        class="station"
-       mclass="s2_3"
+       mclass="line2_3"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2946,7 +2946,7 @@
          id="title27">station</title>
     </circle>
     <text
-       id="ts2_3_Teatralnaya"
+       id="tline2_Teatralnaya"
        class="station"
        x="982.6585133715173"
        y="480"
@@ -2955,9 +2955,9 @@
        font-size="15.36"
        cursor="pointer">Театральная</text>
     <circle
-       id="s2_6_8_Novokuznetskaya"
+       id="line2_Novokuznetskaya"
        class="station"
-       mclass="s2_2"
+       mclass="line2_2"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2968,7 +2968,7 @@
          id="title29">station</title>
     </circle>
     <text
-       id="ts2_2_Novokuznetskaya"
+       id="tline2_Novokuznetskaya"
        class="station"
        x="1069.074819961816"
        y="634.8767386819403"
@@ -2978,9 +2978,9 @@
        text-anchor="end"
        cursor="pointer">Новокузнецкая</text>
     <circle
-       id="s2_6_Paveletskaya"
+       id="line2_Paveletskaya"
        class="station"
-       mclass="s2_3"
+       mclass="line2_3"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -2991,7 +2991,7 @@
          id="title30">station</title>
     </circle>
     <text
-       id="ts2_3_Paveletskaya"
+       id="tline2_Paveletskaya"
        class="station"
        x="1214.125180038184"
        y="757.3333333333333"
@@ -3000,9 +3000,9 @@
        font-size="15.36"
        cursor="pointer">Павелецкая</text>
     <circle
-       id="s2_6_Avtozavodskaya"
+       id="line2_Avtozavodskaya"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3013,7 +3013,7 @@
          id="title31">station</title>
     </circle>
     <text
-       id="ts2_4_Avtozavodskaya"
+       id="tline2_Avtozavodskaya"
        class="station"
        x="1308.5414866284825"
        y="933.6500720152736"
@@ -3023,7 +3023,7 @@
        text-anchor="end"
        cursor="pointer">Автозаводская</text>
     <circle
-       id="s2_6_Tekhnopark"
+       id="line2_Tekhnopark"
        class="station"
        mclass="s2"
        fill="#f5f5dc"
@@ -3036,7 +3036,7 @@
          id="title32">station</title>
     </circle>
     <text
-       id="ts2_Tekhnopark"
+       id="tline2_Tekhnopark"
        class="station"
        x="1333.9668106972138"
        y="1008.3167386819403"
@@ -3046,9 +3046,9 @@
        text-anchor="start"
        cursor="pointer">Технопарк</text>
     <circle
-       id="s2_6_Kolomenskaya"
+       id="line2_Kolomenskaya"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3059,7 +3059,7 @@
          id="title33">station</title>
     </circle>
     <text
-       id="ts2_4_Kolomenskaya"
+       id="tline2_Kolomenskaya"
        class="station"
        x="1308.5414866284825"
        y="1056.31673868194"
@@ -3069,9 +3069,9 @@
        text-anchor="end"
        cursor="pointer">Коломенская</text>
     <circle
-       id="s2_3_Kashirskaya"
+       id="line2_Kashirskaya"
        class="station"
-       mclass="s2_3"
+       mclass="line2_3"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3079,7 +3079,7 @@
        cy="1141.3333333333333"
        r="5.650072015273591" />
     <text
-       id="ts2_3_Kashirskaya"
+       id="tline2_Kashirskaya"
        class="station"
        x="1336.7918467048505"
        y="1141.3333333333333"
@@ -3088,9 +3088,9 @@
        font-size="15.36"
        cursor="pointer">Каширская</text>
     <circle
-       id="s2_6_Kantemirovskaya"
+       id="line2_Kantemirovskaya"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3101,7 +3101,7 @@
          id="title34">station</title>
     </circle>
     <text
-       id="ts2_4_Kantemirovskaya"
+       id="tline2_Kantemirovskaya"
        class="station"
        x="1308.5414866284825"
        y="1189.6500720152735"
@@ -3111,9 +3111,9 @@
        text-anchor="end"
        cursor="pointer">Кантемировская</text>
     <circle
-       id="s2_6_Tsaritsyno"
+       id="line2_Tsaritsyno"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3124,7 +3124,7 @@
          id="title36">station</title>
     </circle>
     <text
-       id="ts2_4_Tsaritsyno"
+       id="tline2_Tsaritsyno"
        class="station"
        x="1308.5414866284825"
        y="1221.6500720152735"
@@ -3134,9 +3134,9 @@
        text-anchor="end"
        cursor="pointer">Царицыно</text>
     <circle
-       id="s2_6_Orekhovo"
+       id="line2_Orekhovo"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3147,7 +3147,7 @@
          id="title37">station</title>
     </circle>
     <text
-       id="ts2_4_Orekhovo"
+       id="tline2_Orekhovo"
        class="station"
        x="1332.0081532951492"
        y="1256.31673868194"
@@ -3157,9 +3157,9 @@
        text-anchor="end"
        cursor="pointer">Орехово</text>
     <circle
-       id="s2_6_Domodedovskaya"
+       id="line2_Domodedovskaya"
        class="station"
-       mclass="s2_4"
+       mclass="line2_4"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3170,7 +3170,7 @@
          id="title38">station</title>
     </circle>
     <text
-       id="ts2_4_Domodedovskaya"
+       id="tline2_Domodedovskaya"
        class="station"
        x="1353.3414866284827"
        y="1280.31673868194"
@@ -3180,9 +3180,9 @@
        text-anchor="end"
        cursor="pointer">Домодедовская</text>
     <circle
-       id="s2_6_Krasnogvardeyskaya"
+       id="line2_Krasnogvardeyskaya"
        class="station"
-       mclass="s2_2"
+       mclass="line2_2"
        fill="#44b85c"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3193,7 +3193,7 @@
          id="title39">station</title>
     </circle>
     <text
-       id="ts2_2_Krasnogvardeyskaya"
+       id="tline2_Krasnogvardeyskaya"
        class="station"
        x="1377.874819961816"
        y="1306.9834053486068"
@@ -3203,9 +3203,9 @@
        text-anchor="end"
        cursor="pointer">Красногвардейская</text>
     <circle
-       id="s2_6_Alma_Atinskaya"
+       id="line2_Alma_Atinskaya"
        class="station"
-       mclass="s2_6"
+       mclass="line2_6"
        fill="#f5f5dc"
        stroke="#44b85c"
        stroke-width="1.4125180038183978"
@@ -3216,7 +3216,7 @@
          id="title40">station</title>
     </circle>
     <text
-       id="ts2_6_Alma_Atinskaya"
+       id="tline2_Alma_Atinskaya"
        class="station"
        x="1477.9668106972138"
        y="1323.9336213944275"
@@ -3226,7 +3226,7 @@
        text-anchor="start"
        cursor="pointer">Алма-Атинская</text>
     <circle
-       id="s3_Pyatnitskoye_Shosse"
+       id="line3_Pyatnitskoye_Shosse"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3239,7 +3239,7 @@
          id="title89">station</title>
     </circle>
     <text
-       id="ts3_Pyatnitskoye_Shosse"
+       id="tline3_Pyatnitskoye_Shosse"
        class="station"
        x="123.30014403054719"
        y="-79.68326131805966"
@@ -3249,7 +3249,7 @@
        text-anchor="start"
        cursor="pointer">Пятницкое шоссе</text>
     <circle
-       id="s3_1_Mitino"
+       id="line3_Mitino"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3262,7 +3262,7 @@
          id="title88">station</title>
     </circle>
     <text
-       id="ts3_Mitino"
+       id="tline3_Mitino"
        class="station"
        x="123.30014403054719"
        y="-37.016594651393035"
@@ -3272,7 +3272,7 @@
        text-anchor="start"
        cursor="pointer">Митино</text>
     <circle
-       id="s3_1_Volokolamskaya"
+       id="line3_Volokolamskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3284,7 +3284,7 @@
          id="title87">station</title>
     </circle>
     <text
-       id="ts3_Volokolamskaya"
+       id="tline3_Volokolamskaya"
        class="station"
        x="123.30014403054719"
        y="5.650072015273591"
@@ -3294,7 +3294,7 @@
        text-anchor="start"
        cursor="pointer">Волоколамская</text>
     <circle
-       id="s3_1_Myakinino"
+       id="line3_Myakinino"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3307,7 +3307,7 @@
          id="title86">station</title>
     </circle>
     <text
-       id="ts3_Myakinino"
+       id="tline3_Myakinino"
        class="station"
        x="123.30014403054719"
        y="58.983405348606965"
@@ -3317,7 +3317,7 @@
        text-anchor="start"
        cursor="pointer">Мякинино</text>
     <circle
-       id="s3_1_Strogino"
+       id="line3_Strogino"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3330,7 +3330,7 @@
          id="title14">station</title>
     </circle>
     <text
-       id="ts3_Strogino"
+       id="tline3_Strogino"
        class="station"
        x="123.30014403054719"
        y="101.6500720152736"
@@ -3340,7 +3340,7 @@
        text-anchor="start"
        cursor="pointer">Строгино</text>
     <circle
-       id="s3_1_Krylatskoye"
+       id="line3_Krylatskoye"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3353,7 +3353,7 @@
          id="title85">station</title>
     </circle>
     <text
-       id="ts3_Krylatskoye"
+       id="tline3_Krylatskoye"
        class="station"
        x="123.30014403054719"
        y="144.31673868194028"
@@ -3363,7 +3363,7 @@
        text-anchor="start"
        cursor="pointer">Крылатское</text>
     <circle
-       id="s3_1_Molodyozhnaya"
+       id="line3_Molodyozhnaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3376,7 +3376,7 @@
          id="title84">station</title>
     </circle>
     <text
-       id="ts3_Molodyozhnaya"
+       id="tline3_Molodyozhnaya"
        class="station"
        x="123.30014403054719"
        y="186.98340534860696"
@@ -3386,9 +3386,9 @@
        text-anchor="start"
        cursor="pointer">Молодёжная</text>
     <circle
-       id="s3_7_Kuntsevskaya"
+       id="line3_Kuntsevskaya"
        class="station"
-       mclass="s3_7"
+       mclass="line3_7"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3396,7 +3396,7 @@
        cy="266.6666666666667"
        r="5.650072015273591" />
     <text
-       id="ts3_7_Kuntsevskaya"
+       id="tline3_Kuntsevskaya"
        class="station"
        x="97.87481996181603"
        y="266.6666666666667"
@@ -3406,9 +3406,9 @@
        text-anchor="end"
        cursor="pointer">Кунцевская</text>
     <circle
-       id="s3_1_Slavyansky_Bulvar"
+       id="line3_Slavyansky_Bulvar"
        class="station"
-       mclass="s3_1"
+       mclass="line3_1"
        fill="#f5f5dc"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3419,7 +3419,7 @@
          id="title82">station</title>
     </circle>
     <text
-       id="ts3_1_Slavyansky_Bulvar"
+       id="tline3_Slavyansky_Bulvar"
        class="station"
        x="151.2081532951494"
        y="426.9834053486069"
@@ -3429,9 +3429,9 @@
        text-anchor="end"
        cursor="pointer">Славянский б-р</text>
     <circle
-       id="s3_5_Park_Pobedy"
+       id="line3_Park_Pobedy"
        class="station"
-       mclass="s3_5"
+       mclass="line3_5"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3439,7 +3439,7 @@
        cy="533.3333333333334"
        r="5.650072015273591" />
     <text
-       id="ts3_5_Park_Pobedy"
+       id="tline3_Park_Pobedy"
        class="station"
        x="305.874819961816"
        y="555.9336213944277"
@@ -3449,9 +3449,9 @@
        text-anchor="end"
        cursor="pointer">Парк Победы</text>
     <circle
-       id="s3_1_Kievskaya"
+       id="line3_Kievskaya"
        class="station"
-       mclass="s3_3"
+       mclass="line3_3"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3462,7 +3462,7 @@
          id="title80">station</title>
     </circle>
     <text
-       id="ts3_3_Kievskaya"
+       id="tline3_Kievskaya"
        class="station"
        x="561.874819961816"
        y="522.0331893027862"
@@ -3472,9 +3472,9 @@
        text-anchor="end"
        cursor="pointer">Киевская</text>
     <circle
-       id="s3_1_Smolenskaya"
+       id="line3_Smolenskaya"
        class="station"
-       mclass="s3_3"
+       mclass="line3_3"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3485,7 +3485,7 @@
          id="title79">station</title>
     </circle>
     <text
-       id="ts3_3_Smolenskaya"
+       id="tline3_Smolenskaya"
        class="station"
        x="721.874819961816"
        y="522.0331893027862"
@@ -3495,9 +3495,9 @@
        text-anchor="end"
        cursor="pointer">Смоленская</text>
     <circle
-       id="s3_1_Arbatskaya"
+       id="line3_Arbatskaya"
        class="station"
-       mclass="s3_7"
+       mclass="line3_7"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3508,7 +3508,7 @@
          id="title78">station</title>
     </circle>
     <text
-       id="ts3_7_Arbatskaya"
+       id="tline3_Arbatskaya"
        class="station"
        x="817.874819961816"
        y="506.6666666666667"
@@ -3518,9 +3518,9 @@
        text-anchor="end"
        cursor="pointer">Арбатская</text>
     <circle
-       id="s3_1_6_Ploshad_Revolyutsii"
+       id="line3_Ploshad_Revolyutsii"
        class="station"
-       mclass="s3_4"
+       mclass="line3_4"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3531,7 +3531,7 @@
          id="title28">station</title>
     </circle>
     <text
-       id="ts3_4_Ploshad_Revolyutsii"
+       id="tline3_Ploshad_Revolyutsii"
        class="station"
        x="1007.5668106972138"
        y="529.266954727761"
@@ -3541,9 +3541,9 @@
        text-anchor="start"
        cursor="pointer">П.Революции</text>
     <circle
-       id="s3_1_Kurskaya"
+       id="line3_Kurskaya"
        class="station"
-       mclass="s3_7"
+       mclass="line3_7"
        fill="#0078bf"
        stroke="#0078bf"
        stroke-width="1.4125180038183978"
@@ -3554,7 +3554,7 @@
          id="title76">station</title>
     </circle>
     <text
-       id="ts3_7_Kurskaya"
+       id="tline3_Kurskaya"
        class="station"
        x="1277.9814866284826"
        y="478.56"
@@ -3564,7 +3564,7 @@
        text-anchor="end"
        cursor="pointer">Курская</text>
     <circle
-       id="s3_1_Baumanskaya"
+       id="line3_Baumanskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3577,7 +3577,7 @@
          id="title75">station</title>
     </circle>
     <text
-       id="ts3_Baumanskaya"
+       id="tline3_Baumanskaya"
        class="station"
        x="1365.9668106972138"
        y="421.65007201527357"
@@ -3587,7 +3587,7 @@
        text-anchor="start"
        cursor="pointer">Бауманская</text>
     <circle
-       id="s3_1_Elektrozavodskaya"
+       id="line3_Elektrozavodskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3600,7 +3600,7 @@
          id="title74">station</title>
     </circle>
     <circle
-       id="s3_1_Semyonovskaya"
+       id="line3_Semyonovskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3614,7 +3614,7 @@
          id="title73">station</title>
     </circle>
     <text
-       id="ts3_Semyonovskaya"
+       id="tline3_Semyonovskaya"
        class="station"
        x="1507.8334773638805"
        y="279.7834053486069"
@@ -3625,7 +3625,7 @@
        cursor="pointer"
        transform="scale(1)">Семёновская</text>
     <circle
-       id="s3_1_Partizanskaya"
+       id="line3_Partizanskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3638,7 +3638,7 @@
          id="title72">station</title>
     </circle>
     <text
-       id="ts3_Partizanskaya"
+       id="tline3_Partizanskaya"
        class="station"
        x="1576.3668106972139"
        y="211.2500720152736"
@@ -3648,7 +3648,7 @@
        text-anchor="start"
        cursor="pointer">Партизанская</text>
     <circle
-       id="s3_1_Izmaylovskaya"
+       id="line3_Izmaylovskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3661,7 +3661,7 @@
          id="title71">station</title>
     </circle>
     <text
-       id="ts3_Izmaylovskaya"
+       id="tline3_Izmaylovskaya"
        class="station"
        x="1618.2334773638806"
        y="169.38340534860694"
@@ -3671,7 +3671,7 @@
        text-anchor="start"
        cursor="pointer">Измайловская</text>
     <circle
-       id="s3_1_Pervomayskaya"
+       id="line3_Pervomayskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3684,7 +3684,7 @@
          id="title70">station</title>
     </circle>
     <text
-       id="ts3_Pervomayskaya"
+       id="tline3_Pervomayskaya"
        class="station"
        x="1660.1001440305472"
        y="127.51673868194027"
@@ -3694,7 +3694,7 @@
        text-anchor="start"
        cursor="pointer">Первомайская</text>
     <circle
-       id="s3_1_Shchyolkovskaya"
+       id="line3_Shchyolkovskaya"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3707,7 +3707,7 @@
          id="title69">station</title>
     </circle>
     <text
-       id="ts3_Shchyolkovskaya"
+       id="tline3_Shchyolkovskaya"
        class="station"
        x="1701.9668106972138"
        y="85.6500720152736"
@@ -3717,7 +3717,7 @@
        text-anchor="start"
        cursor="pointer">Щёлковская</text>
     <circle
-       id="s3_1_Golyanovo"
+       id="line3_Golyanovo"
        class="station"
        mclass="s3"
        fill="#f5f5dc"
@@ -3730,7 +3730,7 @@
          id="title68">station</title>
     </circle>
     <text
-       id="ts3_Golyanovo"
+       id="tline3_Golyanovo"
        class="station"
        x="1744.6334773638805"
        y="42.983405348606965"
@@ -3740,7 +3740,7 @@
        text-anchor="start"
        cursor="pointer">Гольяново</text>
     <circle
-       id="s4A_2_Mezhdunarodnaya"
+       id="s4A_Mezhdunarodnaya"
        class="station"
        mclass="s4A"
        fill="#f5f5dc"
@@ -3763,7 +3763,7 @@
        text-anchor="start"
        cursor="pointer">Международная</text>
     <circle
-       id="s4A_2_Vystavochnaya"
+       id="s4A_Vystavochnaya"
        class="station"
        mclass="s4A_1"
        fill="#19c1f3"
@@ -3776,7 +3776,7 @@
          id="title116">station</title>
     </circle>
     <text
-       id="ts4A_1_Vystavochnaya"
+       id="ts4A_Vystavochnaya"
        class="station"
        x="453.96681069721393"
        y="378.0331893027861"
@@ -3786,7 +3786,7 @@
        text-anchor="start"
        cursor="pointer">Выставочная</text>
     <circle
-       id="s4A_2_Kievskaya"
+       id="s4A_Kievskaya"
        class="station"
        mclass="s4A_2"
        fill="#19c1f3"
@@ -3796,9 +3796,9 @@
        cy="480"
        r="5.650072015273591" />
     <circle
-       id="s4_1_2_Kuntsevskaya"
+       id="line4_Kuntsevskaya"
        class="station"
-       mclass="s4_5"
+       mclass="line4_5"
        fill="#19c1f3"
        stroke="#19c1f3"
        stroke-width="2.8250360076367955"
@@ -3809,7 +3809,7 @@
          id="title83">station</title>
     </circle>
     <circle
-       id="s4_2_Pionerskaya"
+       id="line4_Pionerskaya"
        class="station"
        mclass="s4"
        fill="#f5f5dc"
@@ -3822,7 +3822,7 @@
          id="title184">Pionerskaya</title>
     </circle>
     <text
-       id="ts4_Pionerskaya"
+       id="tline4_Pionerskaya"
        class="station"
        x="160.58014403054727"
        y="309.5967386819402"
@@ -3832,7 +3832,7 @@
        text-anchor="start"
        cursor="pointer">Пионерская</text>
     <circle
-       id="s4_2_Filyovsky_Park"
+       id="line4_Filyovsky_Park"
        class="station"
        mclass="s4"
        fill="#f5f5dc"
@@ -3845,7 +3845,7 @@
          id="title183">Filyovsky</title>
     </circle>
     <text
-       id="ts4_Filyovsky_Park"
+       id="tline4_Filyovsky_Park"
        class="station"
        x="198.28681069721387"
        y="347.3034053486069"
@@ -3855,7 +3855,7 @@
        text-anchor="start"
        cursor="pointer">Филёвский парк</text>
     <circle
-       id="s4_2_Bagrationovskaya"
+       id="line4_Bagrationovskaya"
        class="station"
        mclass="s4"
        fill="#f5f5dc"
@@ -3868,7 +3868,7 @@
          id="title182">Bagrationovskaya</title>
     </circle>
     <text
-       id="ts4_Bagrationovskaya"
+       id="tline4_Bagrationovskaya"
        class="station"
        x="235.9401440305473"
        y="384.95673868194024"
@@ -3878,7 +3878,7 @@
        text-anchor="start"
        cursor="pointer">Багратионовская</text>
     <circle
-       id="s4_2_Fili"
+       id="line4_Fili"
        class="station"
        mclass="s4"
        fill="#f5f5dc"
@@ -3891,7 +3891,7 @@
          id="title180">Fili</title>
     </circle>
     <text
-       id="ts4_Fili"
+       id="tline4_Fili"
        class="station"
        x="272.2068106972138"
        y="421.2234053486069"
@@ -3901,9 +3901,9 @@
        text-anchor="start"
        cursor="pointer">Фили</text>
     <circle
-       id="s4_2_Kutuzovskaya"
+       id="line4_Kutuzovskaya"
        class="station"
-       mclass="s4_7"
+       mclass="line4_7"
        fill="#f5f5dc"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -3914,7 +3914,7 @@
          id="title181">Kutuzovskaya</title>
     </circle>
     <text
-       id="ts4_7_Kutuzovskaya"
+       id="tline4_Kutuzovskaya"
        class="station"
        x="305.874819961816"
        y="454.6002880610944"
@@ -3924,9 +3924,9 @@
        text-anchor="end"
        cursor="pointer">Кутузовская</text>
     <circle
-       id="s4_2_Studencheskaya"
+       id="line4_Studencheskaya"
        class="station"
-       mclass="s4_1"
+       mclass="line4_1"
        fill="#f5f5dc"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -3937,7 +3937,7 @@
          id="title178">Studencheskaya</title>
     </circle>
     <text
-       id="ts4_1_Studencheskaya"
+       id="tline4_Studencheskaya"
        class="station"
        x="449.874819961816"
        y="469.65007201527357"
@@ -3947,9 +3947,9 @@
        text-anchor="end"
        cursor="pointer">Студенческая</text>
     <circle
-       id="s4_2_Kievskaya"
+       id="line4_Kievskaya"
        class="station"
-       mclass="s4_2"
+       mclass="line4_2"
        fill="#19c1f3"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -3960,9 +3960,9 @@
          id="title177">Kievskaya</title>
     </circle>
     <circle
-       id="s4_2_Smolenskaya"
+       id="line4_Smolenskaya"
        class="station"
-       mclass="s4_6"
+       mclass="line4_6"
        fill="#f5f5dc"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -3973,7 +3973,7 @@
          id="title176">Smolenskaya_2</title>
     </circle>
     <text
-       id="ts4_6_Smolenskaya"
+       id="tline4_Smolenskaya"
        class="station"
        x="671.0707433142413"
        y="447.3665226361195"
@@ -3983,9 +3983,9 @@
        text-anchor="middle"
        cursor="pointer">Смоленская-2</text>
     <circle
-       id="s4_2_Arbatskaya"
+       id="line4_Arbatskaya"
        class="station"
-       mclass="s4_3"
+       mclass="line4_3"
        fill="#f5f5dc"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -3996,7 +3996,7 @@
          id="title175">Arbatskaya_2</title>
     </circle>
     <text
-       id="ts4_3_Arbatskaya"
+       id="tline4_Arbatskaya"
        class="station"
        x="796.9001440305472"
        y="447.3665226361195"
@@ -4007,9 +4007,9 @@
        cursor="pointer"
        transform="scale(1)">Арбатская-2</text>
     <circle
-       id="s4_2_7_Alexandrovsky_Sad"
+       id="line4_Alexandrovsky_Sad"
        class="station"
-       mclass="s4_2"
+       mclass="line4_2"
        fill="#19c1f3"
        stroke="#19c1f3"
        stroke-width="1.4125180038183978"
@@ -4020,7 +4020,7 @@
          id="title174">station</title>
     </circle>
     <text
-       id="ts4_2_Alexandrovsky_Sad"
+       id="tline4_Alexandrovsky_Sad"
        class="station"
        x="844.5414866284826"
        y="485.65007201527357"
@@ -4030,7 +4030,7 @@
        text-anchor="end"
        cursor="pointer">Александровский сад</text>
     <circle
-       id="s5_Komsomolskaya"
+       id="line5_Komsomolskaya"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4040,9 +4040,9 @@
        cy="218.66666666666669"
        r="5.650072015273591" />
     <circle
-       id="s5_9_Kurskaya"
+       id="line5_Kurskaya"
        class="station"
-       mclass="s5_2"
+       mclass="line5_2"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4053,7 +4053,7 @@
          id="title194">station</title>
     </circle>
     <text
-       id="ts5_2_Kurskaya"
+       id="tline5_Kurskaya"
        class="station"
        x="1339.460144030547"
        y="514.6100720152735"
@@ -4063,9 +4063,9 @@
        text-anchor="start"
        cursor="pointer">Курская</text>
     <circle
-       id="s5_9_Taganskaya"
+       id="line5_Taganskaya"
        class="station"
-       mclass="s5_3"
+       mclass="line5_3"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4076,7 +4076,7 @@
          id="title193">station</title>
     </circle>
     <circle
-       id="s5_9_Paveletskaya"
+       id="line5_Paveletskaya"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4089,9 +4089,9 @@
          id="title262">station</title>
     </circle>
     <circle
-       id="s5_7_9_Dobryninskaya"
+       id="line5_Dobryninskaya"
        class="station"
-       mclass="s5_2"
+       mclass="line5_2"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4102,7 +4102,7 @@
          id="title188">station</title>
     </circle>
     <text
-       id="ts5_2_Dobryninskaya"
+       id="tline5_Dobryninskaya"
        class="station"
        x="1072.6334773638805"
        y="812.7434053486069"
@@ -4112,7 +4112,7 @@
        text-anchor="start"
        cursor="pointer">Добрынинская</text>
     <circle
-       id="s5_8_9_Oktyabrskaya"
+       id="line5_Oktyabrskaya"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4125,9 +4125,9 @@
          id="title190">station</title>
     </circle>
     <circle
-       id="s5_9_Park_Kultury"
+       id="line5_Park_Kultury"
        class="station"
-       mclass="s5_1"
+       mclass="line5_1"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4138,7 +4138,7 @@
          id="title261">station</title>
     </circle>
     <circle
-       id="s5_9_Kievskaya"
+       id="line5_Kievskaya"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4151,9 +4151,9 @@
          id="title363">station</title>
     </circle>
     <circle
-       id="s5_9_Rossyskaya"
+       id="line5_Rossyskaya"
        class="station"
-       mclass="s5_3"
+       mclass="line5_3"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4164,7 +4164,7 @@
          id="title364">station</title>
     </circle>
     <text
-       id="ts5_3_Rossyskaya"
+       id="tline5_Rossyskaya"
        class="station"
        x="601.2734773638805"
        y="387.41985596945284"
@@ -4174,9 +4174,9 @@
        text-anchor="start"
        cursor="pointer">Российская</text>
     <circle
-       id="s5_9_Krasnopresnenskaya"
+       id="line5_Krasnopresnenskaya"
        class="station"
-       mclass="s5_2"
+       mclass="line5_2"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4187,7 +4187,7 @@
          id="title365">station</title>
     </circle>
     <text
-       id="ts5_2_Krasnopresnenskaya"
+       id="tline5_Krasnopresnenskaya"
        class="station"
        x="625.7001440305472"
        y="312.7967386819402"
@@ -4198,9 +4198,9 @@
        cursor="pointer"
        transform="scale(1)">Краснопресненская</text>
     <circle
-       id="s5_9_Belorusskaya"
+       id="line5_Belorusskaya"
        class="station"
-       mclass="s5_2"
+       mclass="line5_2"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4211,7 +4211,7 @@
          id="title249">station</title>
     </circle>
     <text
-       id="ts5_2_Belorusskaya"
+       id="tline5_Belorusskaya"
        class="station"
        x="720.6334773638805"
        y="177.17007201527358"
@@ -4221,9 +4221,9 @@
        text-anchor="start"
        cursor="pointer">Белорусская</text>
     <circle
-       id="s5_9_Novoslobodskaya"
+       id="line5_Novoslobodskaya"
        class="station"
-       mclass="s5_2"
+       mclass="line5_2"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4234,7 +4234,7 @@
          id="title250">station</title>
     </circle>
     <text
-       id="ts5_2_Novoslobodskaya"
+       id="tline5_Novoslobodskaya"
        class="station"
        x="832.6334773638805"
        y="106.98340534860696"
@@ -4244,7 +4244,7 @@
        text-anchor="start"
        cursor="pointer">Новослободская</text>
     <circle
-       id="s5_9_10_Suvorovskaya"
+       id="line5_Suvorovskaya"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4257,7 +4257,7 @@
          id="title56">Suvorovskaya</title>
     </circle>
     <text
-       id="ts5_Suvorovskaya"
+       id="tline5_Suvorovskaya"
        class="station"
        x="995.4585133715174"
        y="75.30666666666673"
@@ -4266,7 +4266,7 @@
        font-size="15.36"
        cursor="pointer">Суворовская</text>
     <circle
-       id="s5_9_Prospekt_Mira"
+       id="line5_Prospekt_Mira"
        class="station"
        mclass="s5"
        fill="#894e35"
@@ -4279,9 +4279,9 @@
          id="title226">station</title>
     </circle>
     <circle
-       id="s5_9_Komsomolskaya"
+       id="line5_Komsomolskaya"
        class="station"
-       mclass="s5_1"
+       mclass="line5_1"
        fill="#894e35"
        stroke="#894e35"
        stroke-width="1.4125180038183978"
@@ -4292,7 +4292,7 @@
          id="title263">station</title>
     </circle>
     <circle
-       id="s6_8_Mytishchi"
+       id="line6_Mytishchi"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4305,7 +4305,7 @@
          id="title237">station</title>
     </circle>
     <text
-       id="ts6_Mytishchi"
+       id="tline6_Mytishchi"
        class="station"
        x="1163.3001440305472"
        y="-319.6832613180597"
@@ -4315,7 +4315,7 @@
        text-anchor="start"
        cursor="pointer">Мытищи</text>
     <circle
-       id="s6_8_Chelobityevo"
+       id="line6_Chelobityevo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4328,7 +4328,7 @@
          id="title236">station</title>
     </circle>
     <text
-       id="ts6_Chelobityevo"
+       id="tline6_Chelobityevo"
        class="station"
        x="1163.3001440305472"
        y="-277.01659465139306"
@@ -4338,7 +4338,7 @@
        text-anchor="start"
        cursor="pointer">Челобитьево</text>
     <circle
-       id="s6_8_Medvedkovo"
+       id="line6_Medvedkovo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4351,7 +4351,7 @@
          id="title235">station</title>
     </circle>
     <text
-       id="ts6_Medvedkovo"
+       id="tline6_Medvedkovo"
        class="station"
        x="1163.3001440305472"
        y="-234.3499279847264"
@@ -4361,7 +4361,7 @@
        text-anchor="start"
        cursor="pointer">Медведково</text>
     <circle
-       id="s6_8_Babushkinskaya"
+       id="line6_Babushkinskaya"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4374,7 +4374,7 @@
          id="title234">station</title>
     </circle>
     <text
-       id="ts6_Babushkinskaya"
+       id="tline6_Babushkinskaya"
        class="station"
        x="1163.3001440305472"
        y="-191.68326131805966"
@@ -4384,7 +4384,7 @@
        text-anchor="start"
        cursor="pointer">Бабушкинская</text>
     <circle
-       id="s6_8_Sviblovo"
+       id="line6_Sviblovo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4397,7 +4397,7 @@
          id="title233">station</title>
     </circle>
     <text
-       id="ts6_Sviblovo"
+       id="tline6_Sviblovo"
        class="station"
        x="1163.3001440305472"
        y="-149.01659465139304"
@@ -4407,7 +4407,7 @@
        text-anchor="start"
        cursor="pointer">Свиблово</text>
     <circle
-       id="s6_8_Botanichesky_Sad"
+       id="line6_Botanichesky_Sad"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4420,7 +4420,7 @@
          id="title231">station</title>
     </circle>
     <text
-       id="ts6_Botanichesky_Sad"
+       id="tline6_Botanichesky_Sad"
        class="station"
        x="1163.3001440305472"
        y="-111.68326131805966"
@@ -4430,7 +4430,7 @@
        text-anchor="start"
        cursor="pointer">Ботанический сад</text>
     <circle
-       id="s6_8_VDNH"
+       id="line6_VDNH"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4444,7 +4444,7 @@
          id="title230">station</title>
     </circle>
     <text
-       id="ts6_VDNH"
+       id="tline6_VDNH"
        class="station"
        x="1163.3001440305472"
        y="-69.01659465139304"
@@ -4455,7 +4455,7 @@
        cursor="pointer"
        transform="scale(1)">ВДНХ</text>
     <circle
-       id="s6_8_Alexeyevskaya"
+       id="line6_Alexeyevskaya"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4468,7 +4468,7 @@
          id="title229">station</title>
     </circle>
     <text
-       id="ts6_Alexeyevskaya"
+       id="tline6_Alexeyevskaya"
        class="station"
        x="1163.3001440305472"
        y="-26.34992798472641"
@@ -4479,9 +4479,9 @@
        cursor="pointer"
        transform="scale(1)">Алексеевская</text>
     <circle
-       id="s6_8_Rizhskaya"
+       id="line6_Rizhskaya"
        class="station"
-       mclass="s6_2"
+       mclass="line6_2"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4492,7 +4492,7 @@
          id="title227">station</title>
     </circle>
     <text
-       id="ts6_2_Rizhskaya"
+       id="tline6_Rizhskaya"
        class="station"
        x="1166.125180038184"
        y="37.33333333333337"
@@ -4502,9 +4502,9 @@
        cursor="pointer"
        transform="scale(1)">Рижская</text>
     <circle
-       id="s6_8_Prospekt_Mira"
+       id="line6_Prospekt_Mira"
        class="station"
-       mclass="s6_2"
+       mclass="line6_2"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4515,7 +4515,7 @@
          id="title225">station</title>
     </circle>
     <text
-       id="ts6_2_Prospekt_Mira"
+       id="tline6_Prospekt_Mira"
        class="station"
        x="1166.125180038184"
        y="101.33333333333337"
@@ -4524,9 +4524,9 @@
        font-size="15.36"
        cursor="pointer">Пр-т Мира</text>
     <circle
-       id="s6_8_Sukharevskaya"
+       id="line6_Sukharevskaya"
        class="station"
-       mclass="s6_1"
+       mclass="line6_1"
        fill="#f5f5dc"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4537,7 +4537,7 @@
          id="title224">station</title>
     </circle>
     <text
-       id="ts6_1_Sukharevskaya"
+       id="tline6_Sukharevskaya"
        class="station"
        x="1137.874819961816"
        y="192.31673868194028"
@@ -4547,9 +4547,9 @@
        text-anchor="end"
        cursor="pointer">Сухаревская</text>
     <circle
-       id="s6_8_Turgenevskaya"
+       id="line6_Turgenevskaya"
        class="station"
-       mclass="s6_2"
+       mclass="line6_2"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4560,7 +4560,7 @@
          id="title1">station</title>
     </circle>
     <text
-       id="ts6_2_Turgenevskaya"
+       id="tline6_Turgenevskaya"
        class="station"
        x="1139.4585133715173"
        y="320"
@@ -4569,9 +4569,9 @@
        font-size="15.36"
        cursor="pointer">Тургеневская</text>
     <circle
-       id="s6_2_Kitay_Gorod"
+       id="line6_Kitay_Gorod"
        class="station"
-       mclass="s6_2"
+       mclass="line6_2"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4579,7 +4579,7 @@
        cy="533.3333333333334"
        r="5.650072015273591" />
     <text
-       id="ts6_2_Kitay_Gorod"
+       id="tline6_Kitay_Gorod"
        class="station"
        x="1139.4585133715173"
        y="533.3333333333334"
@@ -4588,9 +4588,9 @@
        font-size="15.36"
        cursor="pointer">Китай-город</text>
     <circle
-       id="s6_4_Tretyakovskaya"
+       id="line6_Tretyakovskaya"
        class="station"
-       mclass="s6_4"
+       mclass="line6_4"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4598,7 +4598,7 @@
        cy="661.3333333333333"
        r="5.650072015273591" />
     <text
-       id="ts6_4_Tretyakovskaya"
+       id="tline6_Tretyakovskaya"
        class="station"
        x="1063.0334773638806"
        y="683.9336213944276"
@@ -4608,9 +4608,9 @@
        text-anchor="start"
        cursor="pointer">Третьяковская</text>
     <circle
-       id="s6_8_Oktyabrskaya"
+       id="line6_Oktyabrskaya"
        class="station"
-       mclass="s6_3"
+       mclass="line6_3"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4621,7 +4621,7 @@
          id="title189">station</title>
     </circle>
     <text
-       id="ts6_3_Oktyabrskaya"
+       id="tline6_Oktyabrskaya"
        class="station"
        x="903.634819961816"
        y="785.7665226361195"
@@ -4631,7 +4631,7 @@
        text-anchor="end"
        cursor="pointer">Октябрьская</text>
     <circle
-       id="s6_8_Shabolovskaya"
+       id="line6_Shabolovskaya"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4644,7 +4644,7 @@
          id="title222">station</title>
     </circle>
     <text
-       id="ts6_Shabolovskaya"
+       id="tline6_Shabolovskaya"
        class="station"
        x="795.8868106972138"
        y="938.0767386819402"
@@ -4654,7 +4654,7 @@
        text-anchor="start"
        cursor="pointer">Шаболовская</text>
     <circle
-       id="s6_8_Leninsky_Prospekt"
+       id="line6_Leninsky_Prospekt"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4667,7 +4667,7 @@
          id="title221">station</title>
     </circle>
     <text
-       id="ts6_Leninsky_Prospekt"
+       id="tline6_Leninsky_Prospekt"
        class="station"
        x="752.6334773638805"
        y="981.6500720152736"
@@ -4677,9 +4677,9 @@
        text-anchor="start"
        cursor="pointer">Ленинский пр-т</text>
     <circle
-       id="s6_8_Akademicheskaya"
+       id="line6_Akademicheskaya"
        class="station"
-       mclass="s6_2"
+       mclass="line6_2"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4690,7 +4690,7 @@
          id="title220">station</title>
     </circle>
     <text
-       id="ts6_2_Akademicheskaya"
+       id="tline6_Akademicheskaya"
        class="station"
        x="739.4585133715174"
        y="1045.3333333333333"
@@ -4699,7 +4699,7 @@
        font-size="15.36"
        cursor="pointer">Академическая</text>
     <circle
-       id="s6_8_Profsoyuznaya"
+       id="line6_Profsoyuznaya"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4712,7 +4712,7 @@
          id="title213">station</title>
     </circle>
     <text
-       id="ts6_Profsoyuznaya"
+       id="tline6_Profsoyuznaya"
        class="station"
        x="736.6334773638805"
        y="1088.31673868194"
@@ -4722,9 +4722,9 @@
        text-anchor="start"
        cursor="pointer">Профсоюзная</text>
     <circle
-       id="s6_8_Noviye_Cheryomushki"
+       id="line6_Noviye_Cheryomushki"
        class="station"
-       mclass="s6_6"
+       mclass="line6_6"
        fill="#f5f5dc"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4735,7 +4735,7 @@
          id="title214">station</title>
     </circle>
     <text
-       id="ts6_6_Noviye_Cheryomushki"
+       id="tline6_Noviye_Cheryomushki"
        class="station"
        x="739.4585133715174"
        y="1120"
@@ -4744,9 +4744,9 @@
        font-size="15.36"
        cursor="pointer">Новые Черёмушки</text>
     <circle
-       id="s6_4_8_Kaluzhskaya"
+       id="line6_Kaluzhskaya"
        class="station"
-       mclass="s6_7"
+       mclass="line6_7"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4757,7 +4757,7 @@
          id="title206">station</title>
     </circle>
     <text
-       id="ts6_7_Kaluzhskaya"
+       id="tline6_Kaluzhskaya"
        class="station"
        x="736.6334773638805"
        y="1146.033189302786"
@@ -4767,7 +4767,7 @@
        text-anchor="start"
        cursor="pointer">Калужская</text>
     <circle
-       id="s6_8_Belyayevo"
+       id="line6_Belyayevo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4780,7 +4780,7 @@
          id="title207">station</title>
     </circle>
     <text
-       id="ts6_Belyayevo"
+       id="tline6_Belyayevo"
        class="station"
        x="736.6334773638805"
        y="1200.31673868194"
@@ -4790,7 +4790,7 @@
        text-anchor="start"
        cursor="pointer">Беляево</text>
     <circle
-       id="s6_8_Konkovo"
+       id="line6_Konkovo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4803,7 +4803,7 @@
          id="title208">station</title>
     </circle>
     <text
-       id="ts6_Konkovo"
+       id="tline6_Konkovo"
        class="station"
        x="736.6334773638805"
        y="1237.6500720152735"
@@ -4813,7 +4813,7 @@
        text-anchor="start"
        cursor="pointer">Коньково</text>
     <circle
-       id="s6_8_Tyoplyi_Stan"
+       id="line6_Tyoplyi_Stan"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4826,7 +4826,7 @@
          id="title209">station</title>
     </circle>
     <text
-       id="ts6_Tyoplyi_Stan"
+       id="tline6_Tyoplyi_Stan"
        class="station"
        x="736.6334773638805"
        y="1274.9834053486068"
@@ -4836,7 +4836,7 @@
        text-anchor="start"
        cursor="pointer">Тёплый Стан</text>
     <circle
-       id="s6_8_Yasenevo"
+       id="line6_Yasenevo"
        class="station"
        mclass="s6"
        fill="#f5f5dc"
@@ -4849,7 +4849,7 @@
          id="title210">station</title>
     </circle>
     <text
-       id="ts6_Yasenevo"
+       id="tline6_Yasenevo"
        class="station"
        x="736.6334773638805"
        y="1312.31673868194"
@@ -4859,9 +4859,9 @@
        text-anchor="start"
        cursor="pointer">Ясенево</text>
     <circle
-       id="s6_8_Novoyasenevskaya"
+       id="line6_Novoyasenevskaya"
        class="station"
-       mclass="s6_5"
+       mclass="line6_5"
        fill="#f58631"
        stroke="#f58631"
        stroke-width="1.4125180038183978"
@@ -4872,7 +4872,7 @@
          id="title211">station</title>
     </circle>
     <text
-       id="ts6_5_Novoyasenevskaya"
+       id="tline6_Novoyasenevskaya"
        class="station"
        x="711.2081532951494"
        y="1349.6500720152735"
@@ -4882,7 +4882,7 @@
        text-anchor="end"
        cursor="pointer">Новоясеневская</text>
     <circle
-       id="s7_5_Planernaya"
+       id="line7_Planernaya"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -4895,7 +4895,7 @@
          id="title238">station</title>
     </circle>
     <text
-       id="ts7_Planernaya"
+       id="tline7_Planernaya"
        class="station"
        x="385.874819961816"
        y="-159.68326131805966"
@@ -4905,7 +4905,7 @@
        text-anchor="end"
        cursor="pointer">Планерная</text>
     <circle
-       id="s7_5_Skhodnenskaya"
+       id="line7_Skhodnenskaya"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -4918,7 +4918,7 @@
          id="title239">station</title>
     </circle>
     <text
-       id="ts7_Skhodnenskaya"
+       id="tline7_Skhodnenskaya"
        class="station"
        x="385.874819961816"
        y="-95.68326131805966"
@@ -4928,7 +4928,7 @@
        text-anchor="end"
        cursor="pointer">Сходненская</text>
     <circle
-       id="s7_5_Tushinskaya"
+       id="line7_Tushinskaya"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -4941,7 +4941,7 @@
          id="title240">station</title>
     </circle>
     <text
-       id="ts7_Tushinskaya"
+       id="tline7_Tushinskaya"
        class="station"
        x="385.874819961816"
        y="-37.016594651393035"
@@ -4951,7 +4951,7 @@
        text-anchor="end"
        cursor="pointer">Тушинская</text>
     <circle
-       id="s7_5_Spartak"
+       id="line7_Spartak"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -4964,7 +4964,7 @@
          id="title241">station</title>
     </circle>
     <text
-       id="ts7_Spartak"
+       id="tline7_Spartak"
        class="station"
        x="385.874819961816"
        y="26.98340534860696"
@@ -4974,7 +4974,7 @@
        text-anchor="end"
        cursor="pointer">Спартак</text>
     <circle
-       id="s7_5_Shchukinskaya"
+       id="line7_Shchukinskaya"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -4987,7 +4987,7 @@
          id="title242">station</title>
     </circle>
     <text
-       id="ts7_Shchukinskaya"
+       id="tline7_Shchukinskaya"
        class="station"
        x="396.54148662848274"
        y="64.31673868194028"
@@ -4997,9 +4997,9 @@
        text-anchor="end"
        cursor="pointer">Щукинская</text>
     <circle
-       id="s7_5_Oktyabrskoye_Pole"
+       id="line7_Oktyabrskoye_Pole"
        class="station"
-       mclass="s7_8"
+       mclass="line7_8"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5010,7 +5010,7 @@
          id="title243">station</title>
     </circle>
     <text
-       id="ts7_8_Oktyabrskoye_Pole"
+       id="tline7_Oktyabrskoye_Pole"
        class="station"
        x="420.54148662848274"
        y="105.26695472776105"
@@ -5020,9 +5020,9 @@
        text-anchor="end"
        cursor="pointer">Октябрьское поле</text>
     <circle
-       id="s7_5_Polezhaevskaya"
+       id="line7_Polezhaevskaya"
        class="station"
-       mclass="s7_11"
+       mclass="line7_11"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5033,7 +5033,7 @@
          id="title244">station</title>
     </circle>
     <text
-       id="ts7_11_Polezhaevskaya"
+       id="tline7_Polezhaevskaya"
        class="station"
        x="519.2081532951494"
        y="167.1531893027862"
@@ -5043,9 +5043,9 @@
        text-anchor="end"
        cursor="pointer">Полежаевская</text>
     <circle
-       id="s7_5_Begovaya"
+       id="line7_Begovaya"
        class="station"
-       mclass="s7_9"
+       mclass="line7_9"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5056,7 +5056,7 @@
          id="title245">station</title>
     </circle>
     <text
-       id="ts7_9_Begovaya"
+       id="tline7_Begovaya"
        class="station"
        x="590.125180038184"
        y="220.26666666666665"
@@ -5065,9 +5065,9 @@
        font-size="15.36"
        cursor="pointer">Беговая</text>
     <circle
-       id="s7_5_Ulitsa_1905_Goda"
+       id="line7_Ulitsa_1905_Goda"
        class="station"
-       mclass="s7_9"
+       mclass="line7_9"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5078,7 +5078,7 @@
          id="title246">station</title>
     </circle>
     <text
-       id="ts7_9_Ulitsa_1905_Goda"
+       id="tline7_Ulitsa_1905_Goda"
        class="station"
        x="616.7918467048507"
        y="246.40000000000003"
@@ -5087,9 +5087,9 @@
        font-size="15.36"
        cursor="pointer">Улица 1905 года</text>
     <circle
-       id="s7_5_Barrikadnaya"
+       id="line7_Barrikadnaya"
        class="station"
-       mclass="s7_10"
+       mclass="line7_10"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5100,7 +5100,7 @@
          id="title247">station</title>
     </circle>
     <text
-       id="ts7_10_Barrikadnaya"
+       id="tline7_Barrikadnaya"
        class="station"
        x="652.3118467048507"
        y="280.85333333333335"
@@ -5110,9 +5110,9 @@
        cursor="pointer"
        transform="scale(1)">Баррикадная</text>
     <circle
-       id="s7_5_Pushkinskaya"
+       id="line7_Pushkinskaya"
        class="station"
-       mclass="s7_2"
+       mclass="line7_2"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5123,7 +5123,7 @@
          id="title248">station</title>
     </circle>
     <text
-       id="ts7_2_Pushkinskaya"
+       id="tline7_Pushkinskaya"
        class="station"
        x="843.3001440305471"
        y="282.0331893027862"
@@ -5133,9 +5133,9 @@
        text-anchor="start"
        cursor="pointer">Пушкинская</text>
     <circle
-       id="s7_5_Kuznetsky_Most"
+       id="line7_Kuznetsky_Most"
        class="station"
-       mclass="s7_1"
+       mclass="line7_1"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5146,7 +5146,7 @@
          id="title12">station</title>
     </circle>
     <text
-       id="ts7_1_Kuznetsky_Most"
+       id="tline7_Kuznetsky_Most"
        class="station"
        x="1007.2081532951494"
        y="344.31673868194025"
@@ -5156,9 +5156,9 @@
        text-anchor="end"
        cursor="pointer">Кузнецкий мост</text>
     <circle
-       id="s7_5_8_Kitay_Gorod"
+       id="line7_Kitay_Gorod"
        class="station"
-       mclass="s7_5"
+       mclass="line7_5"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="2.8250360076367955"
@@ -5169,9 +5169,9 @@
          id="title223">station</title>
     </circle>
     <circle
-       id="s7_5_Taganskaya"
+       id="line7_Taganskaya"
        class="station"
-       mclass="s7_10"
+       mclass="line7_10"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5182,7 +5182,7 @@
          id="title192">station</title>
     </circle>
     <text
-       id="ts7_10_Taganskaya"
+       id="tline7_Taganskaya"
        class="station"
        x="1294.125180038184"
        y="688"
@@ -5191,9 +5191,9 @@
        font-size="15.36"
        cursor="pointer">Таганская</text>
     <circle
-       id="s7_5_Proletarskaya"
+       id="line7_Proletarskaya"
        class="station"
-       mclass="s7_1"
+       mclass="line7_1"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5204,7 +5204,7 @@
          id="title251">station</title>
     </circle>
     <text
-       id="ts7_1_Proletarskaya"
+       id="tline7_Proletarskaya"
        class="station"
        x="1372.5414866284825"
        y="800.3167386819403"
@@ -5214,9 +5214,9 @@
        text-anchor="end"
        cursor="pointer">Пролетарская</text>
     <circle
-       id="s7_5_Volgograd_Prospekt"
+       id="line7_Volgograd_Prospekt"
        class="station"
-       mclass="s7_6"
+       mclass="line7_6"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5227,7 +5227,7 @@
          id="title252">station</title>
     </circle>
     <text
-       id="ts7_6_Volgograd_Prospekt"
+       id="tline7_Volgograd_Prospekt"
        class="station"
        x="1448.7918467048505"
        y="842.6666666666666"
@@ -5236,9 +5236,9 @@
        font-size="15.36"
        cursor="pointer">Волг. пр-т</text>
     <circle
-       id="s7_5_4_Tekstilshchiki"
+       id="line7_Tekstilshchiki"
        class="station"
-       mclass="s7_3"
+       mclass="line7_3"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5249,7 +5249,7 @@
          id="title253">station</title>
     </circle>
     <text
-       id="ts7_3_Tekstilshchiki"
+       id="tline7_Tekstilshchiki"
        class="station"
        x="1531.3001440305472"
        y="897.266954727761"
@@ -5259,9 +5259,9 @@
        text-anchor="start"
        cursor="pointer">Текстильщики</text>
     <circle
-       id="s7_5_Kuzminki"
+       id="line7_Kuzminki"
        class="station"
-       mclass="s7_7"
+       mclass="line7_7"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5272,7 +5272,7 @@
          id="title255">station</title>
     </circle>
     <text
-       id="ts7_7_Kuzminki"
+       id="tline7_Kuzminki"
        class="station"
        x="1624.9374099809081"
        y="863.3665226361195"
@@ -5282,9 +5282,9 @@
        text-anchor="middle"
        cursor="pointer">Кузьминки</text>
     <circle
-       id="s7_5_Ryazan_Prospekt"
+       id="line7_Ryazan_Prospekt"
        class="station"
-       mclass="s7_4"
+       mclass="line7_4"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5295,7 +5295,7 @@
          id="title256">station</title>
     </circle>
     <text
-       id="ts7_4_Ryazan_Prospekt"
+       id="tline7_Ryazan_Prospekt"
        class="station"
        x="1728.6334773638805"
        y="863.3665226361195"
@@ -5305,7 +5305,7 @@
        text-anchor="start"
        cursor="pointer">Рязанский пр-т</text>
     <circle
-       id="s7_5_Vykhino"
+       id="line7_Vykhino"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -5318,7 +5318,7 @@
          id="title13">station</title>
     </circle>
     <text
-       id="ts7_Vykhino"
+       id="tline7_Vykhino"
        class="station"
        x="1799.2081532951493"
        y="933.6500720152736"
@@ -5328,9 +5328,9 @@
        text-anchor="end"
        cursor="pointer">Выхино</text>
     <circle
-       id="s7_5_Lermontov_Prospekt"
+       id="line7_Lermontov_Prospekt"
        class="station"
-       mclass="s7_1"
+       mclass="line7_1"
        fill="#8e479c"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5341,7 +5341,7 @@
          id="title258">station</title>
     </circle>
     <text
-       id="ts7_1_Lermontov_Prospekt"
+       id="tline7_Lermontov_Prospekt"
        class="station"
        x="1729.874819961816"
        y="1018.9834053486069"
@@ -5351,7 +5351,7 @@
        text-anchor="end"
        cursor="pointer">Лермонтовский пр-т</text>
     <circle
-       id="s7_5_Zhulebino"
+       id="line7_Zhulebino"
        class="station"
        mclass="s7"
        fill="#f5f5dc"
@@ -5364,7 +5364,7 @@
          id="title259">station</title>
     </circle>
     <text
-       id="ts7_Zhulebino"
+       id="tline7_Zhulebino"
        class="station"
        x="1671.2081532951493"
        y="1072.31673868194"
@@ -5374,9 +5374,9 @@
        text-anchor="end"
        cursor="pointer">Жулебино</text>
     <circle
-       id="s7_5_Kotelniki"
+       id="line7_Kotelniki"
        class="station"
-       mclass="s7_8"
+       mclass="line7_8"
        fill="#f5f5dc"
        stroke="#8e479c"
        stroke-width="1.4125180038183978"
@@ -5387,7 +5387,7 @@
          id="title260">Kotelniki</title>
     </circle>
     <text
-       id="ts7_8_Kotelniki"
+       id="tline7_Kotelniki"
        class="station"
        x="1639.2081532951493"
        y="1147.9336213944275"
@@ -5397,7 +5397,7 @@
        text-anchor="end"
        cursor="pointer">Котельники</text>
     <circle
-       id="s8_3_Vnukovo"
+       id="line8_Vnukovo"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5410,7 +5410,7 @@
          id="title128">station</title>
     </circle>
     <text
-       id="ts8_Vnukovo"
+       id="tline8_Vnukovo"
        class="station"
        x="187.3001440305472"
        y="1093.6500720152735"
@@ -5420,7 +5420,7 @@
        text-anchor="start"
        cursor="pointer">Внуково</text>
     <circle
-       id="s8_3_Pyhtino"
+       id="line8_Pyhtino"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5433,7 +5433,7 @@
          id="title127">station</title>
     </circle>
     <text
-       id="ts8_Pyhtino"
+       id="tline8_Pyhtino"
        class="station"
        x="187.3001440305472"
        y="1050.9834053486068"
@@ -5443,7 +5443,7 @@
        text-anchor="start"
        cursor="pointer">Пыхтино</text>
     <circle
-       id="s8_3_Rasskazovka"
+       id="line8_Rasskazovka"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5456,7 +5456,7 @@
          id="title126">station</title>
     </circle>
     <text
-       id="ts8_Rasskazovka"
+       id="tline8_Rasskazovka"
        class="station"
        x="187.3001440305472"
        y="1008.3167386819403"
@@ -5466,7 +5466,7 @@
        text-anchor="start"
        cursor="pointer">Рассказовка</text>
     <circle
-       id="s8_3_Novoperedelkino"
+       id="line8_Novoperedelkino"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5479,7 +5479,7 @@
          id="title125">station</title>
     </circle>
     <text
-       id="ts8_Novoperedelkino"
+       id="tline8_Novoperedelkino"
        class="station"
        x="187.3001440305472"
        y="965.6500720152736"
@@ -5489,7 +5489,7 @@
        text-anchor="start"
        cursor="pointer">Новопеределкино</text>
     <circle
-       id="s8_3_Borovskoye_Shosse"
+       id="line8_Borovskoye_Shosse"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5502,7 +5502,7 @@
          id="title124">station</title>
     </circle>
     <text
-       id="ts8_Borovskoye_Shosse"
+       id="tline8_Borovskoye_Shosse"
        class="station"
        x="207.56681069721395"
        y="917.6500720152736"
@@ -5512,7 +5512,7 @@
        text-anchor="start"
        cursor="pointer">Боровское шоссе</text>
     <circle
-       id="s8_3_Solntsevo"
+       id="line8_Solntsevo"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5525,7 +5525,7 @@
          id="title123">station</title>
     </circle>
     <text
-       id="ts8_Solntsevo"
+       id="tline8_Solntsevo"
        class="station"
        x="241.70014403054716"
        y="880.3167386819403"
@@ -5535,7 +5535,7 @@
        text-anchor="start"
        cursor="pointer">Солнцево</text>
     <circle
-       id="s8_3_Govorovo"
+       id="line8_Govorovo"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5548,7 +5548,7 @@
          id="title122">station</title>
     </circle>
     <text
-       id="ts8_Govorovo"
+       id="tline8_Govorovo"
        class="station"
        x="276.3668106972138"
        y="842.9834053486069"
@@ -5558,7 +5558,7 @@
        text-anchor="start"
        cursor="pointer">Говорово</text>
     <circle
-       id="s8_3_Ozernaya"
+       id="line8_Ozernaya"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5571,7 +5571,7 @@
          id="title121">station</title>
     </circle>
     <text
-       id="ts8_Ozernaya"
+       id="tline8_Ozernaya"
        class="station"
        x="309.96681069721393"
        y="805.6500720152736"
@@ -5581,9 +5581,9 @@
        text-anchor="start"
        cursor="pointer">Озёрная</text>
     <circle
-       id="s8_3_2_Michurinsky_Prospekt"
+       id="line8_Michurinsky_Prospekt"
        class="station"
-       mclass="s8_2"
+       mclass="line8_2"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5594,7 +5594,7 @@
          id="title120">station</title>
     </circle>
     <circle
-       id="s8_3_Ramenki"
+       id="line8_Ramenki"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5607,7 +5607,7 @@
          id="title366">station</title>
     </circle>
     <text
-       id="ts8_Ramenki"
+       id="tline8_Ramenki"
        class="station"
        x="331.3001440305472"
        y="688.3167386819403"
@@ -5617,7 +5617,7 @@
        text-anchor="start"
        cursor="pointer">Раменки</text>
     <circle
-       id="s8_3_Lomonosov_Prospekt"
+       id="line8_Lomonosov_Prospekt"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5630,7 +5630,7 @@
          id="title119">station</title>
     </circle>
     <text
-       id="ts8_Lomonosov_Prospekt"
+       id="tline8_Lomonosov_Prospekt"
        class="station"
        x="331.3001440305472"
        y="640.3167386819403"
@@ -5640,7 +5640,7 @@
        text-anchor="start"
        cursor="pointer">Ломоносовский пр-т</text>
     <circle
-       id="s8_3_Minskaya"
+       id="line8_Minskaya"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5653,7 +5653,7 @@
          id="title118">station</title>
     </circle>
     <text
-       id="ts8_Minskaya"
+       id="tline8_Minskaya"
        class="station"
        x="331.3001440305472"
        y="586.9834053486069"
@@ -5663,9 +5663,9 @@
        text-anchor="start"
        cursor="pointer">Минская</text>
     <circle
-       id="s8_1_3_Park_Pobedy"
+       id="line8_Park_Pobedy"
        class="station"
-       mclass="s8_6"
+       mclass="line8_6"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="2.8250360076367955"
@@ -5676,9 +5676,9 @@
          id="title81">station</title>
     </circle>
     <circle
-       id="s8_2_Delovoy_Tsentr"
+       id="line8_Delovoy_Tsentr"
        class="station"
-       mclass="s8_2"
+       mclass="line8_2"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5686,7 +5686,7 @@
        cy="389.3333333333333"
        r="5.650072015273591" />
     <text
-       id="ts8_2_Delovoy_Tsentr"
+       id="tline8_Delovoy_Tsentr"
        class="station"
        x="416.63347736388056"
        y="411.9336213944277"
@@ -5696,9 +5696,9 @@
        text-anchor="start"
        cursor="pointer">Деловой центр</text>
     <circle
-       id="s8_3_Dorogomilovskaya"
+       id="line8_Dorogomilovskaya"
        class="station"
-       mclass="s8_3"
+       mclass="line8_3"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5709,7 +5709,7 @@
          id="title115">station</title>
     </circle>
     <text
-       id="ts8_3_Dorogomilovskaya"
+       id="tline8_Dorogomilovskaya"
        class="station"
        x="601.2734773638805"
        y="417.3398559694528"
@@ -5719,9 +5719,9 @@
        text-anchor="start"
        cursor="pointer">Дорогомиловская</text>
     <circle
-       id="s8_3_Plyushchikha"
+       id="line8_Plyushchikha"
        class="station"
-       mclass="s8_4"
+       mclass="line8_4"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5732,7 +5732,7 @@
          id="title114">station</title>
     </circle>
     <text
-       id="ts8_4_Plyushchikha"
+       id="tline8_Plyushchikha"
        class="station"
        x="721.874819961816"
        y="573.9167386819403"
@@ -5742,9 +5742,9 @@
        text-anchor="end"
        cursor="pointer">Плющиха</text>
     <circle
-       id="s8_3_Volkhonka"
+       id="line8_Volkhonka"
        class="station"
-       mclass="s8_1"
+       mclass="line8_1"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5755,7 +5755,7 @@
          id="title113">station</title>
     </circle>
     <text
-       id="ts8_1_Volkhonka"
+       id="tline8_Volkhonka"
        class="station"
        x="812.2068106972139"
        y="636.5300720152736"
@@ -5765,9 +5765,9 @@
        text-anchor="start"
        cursor="pointer">Волхонка</text>
     <circle
-       id="s8_3_8_Tretyakovskaya"
+       id="line8_Tretyakovskaya"
        class="station"
-       mclass="s8_6"
+       mclass="line8_6"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="2.8250360076367955"
@@ -5778,9 +5778,9 @@
          id="title112">station</title>
     </circle>
     <circle
-       id="s8_3_Marksistskaya"
+       id="line8_Marksistskaya"
        class="station"
-       mclass="s8_3"
+       mclass="line8_3"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5791,7 +5791,7 @@
          id="title111">station</title>
     </circle>
     <text
-       id="ts8_3_Marksistskaya"
+       id="tline8_Marksistskaya"
        class="station"
        x="1312.6334773638805"
        y="650.0331893027861"
@@ -5801,9 +5801,9 @@
        text-anchor="start"
        cursor="pointer">Марксистская</text>
     <circle
-       id="s8_3_Ploshchad_Ilicha"
+       id="line8_Ploshchad_Ilicha"
        class="station"
-       mclass="s8_1"
+       mclass="line8_1"
        fill="#ffcb31"
        stroke="#ffcb31"
        stroke-width="1.4125180038183978"
@@ -5814,7 +5814,7 @@
          id="title110">station</title>
     </circle>
     <text
-       id="ts8_1_Ploshchad_Ilicha"
+       id="tline8_Ploshchad_Ilicha"
        class="station"
        x="1440.6334773638805"
        y="666.9834053486069"
@@ -5824,7 +5824,7 @@
        text-anchor="start"
        cursor="pointer">Пл.Ильича</text>
     <circle
-       id="s8_3_Aviamotornaya"
+       id="line8_Aviamotornaya"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5837,7 +5837,7 @@
          id="title109">station</title>
     </circle>
     <circle
-       id="s8_3_Shosse_Entuziastov"
+       id="line8_Shosse_Entuziastov"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5850,7 +5850,7 @@
          id="title108">station</title>
     </circle>
     <text
-       id="ts8_Shosse_Entuziastov"
+       id="tline8_Shosse_Entuziastov"
        class="station"
        x="1555.3001440305472"
        y="562.7167386819402"
@@ -5860,7 +5860,7 @@
        text-anchor="start"
        cursor="pointer">Шоссе Энтузиастов</text>
     <circle
-       id="s8_3_Perovo"
+       id="line8_Perovo"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5873,7 +5873,7 @@
          id="title107">station</title>
     </circle>
     <text
-       id="ts8_Perovo"
+       id="tline8_Perovo"
        class="station"
        x="1611.3001440305472"
        y="506.4500720152736"
@@ -5883,7 +5883,7 @@
        text-anchor="start"
        cursor="pointer">Перово</text>
     <circle
-       id="s8_3_Novogireevo"
+       id="line8_Novogireevo"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5896,7 +5896,7 @@
          id="title106">station</title>
     </circle>
     <text
-       id="ts8_Novogireevo"
+       id="tline8_Novogireevo"
        class="station"
        x="1653.9668106972138"
        y="463.7834053486069"
@@ -5907,7 +5907,7 @@
        cursor="pointer"
        transform="scale(1)">Новогиреево</text>
     <circle
-       id="s8_3_Novokosino"
+       id="line8_Novokosino"
        class="station"
        mclass="s8"
        fill="#f5f5dc"
@@ -5920,7 +5920,7 @@
          id="title105">station</title>
     </circle>
     <text
-       id="ts8_Novokosino"
+       id="tline8_Novokosino"
        class="station"
        x="1696.6334773638805"
        y="421.65007201527357"
@@ -5931,7 +5931,7 @@
        cursor="pointer"
        transform="scale(1)">Новокосино</text>
     <circle
-       id="s9_7_Altufyevo"
+       id="line9_Altufyevo"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -5944,7 +5944,7 @@
          id="title164">station</title>
     </circle>
     <text
-       id="ts9_Altufyevo"
+       id="tline9_Altufyevo"
        class="station"
        x="981.9668106972138"
        y="-314.34992798472643"
@@ -5954,7 +5954,7 @@
        text-anchor="start"
        cursor="pointer">Алтуфьево</text>
     <circle
-       id="s9_7_Bibirevo"
+       id="line9_Bibirevo"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -5967,7 +5967,7 @@
          id="title165">station</title>
     </circle>
     <text
-       id="ts9_Bibirevo"
+       id="tline9_Bibirevo"
        class="station"
        x="981.9668106972138"
        y="-271.6832613180597"
@@ -5977,7 +5977,7 @@
        text-anchor="start"
        cursor="pointer">Бибирево</text>
     <circle
-       id="s9_7_Otradnoye"
+       id="line9_Otradnoye"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -5990,7 +5990,7 @@
          id="title166">station</title>
     </circle>
     <text
-       id="ts9_Otradnoye"
+       id="tline9_Otradnoye"
        class="station"
        x="949.9668106972138"
        y="-238.61659465139306"
@@ -6000,7 +6000,7 @@
        text-anchor="start"
        cursor="pointer">Отрадное</text>
     <circle
-       id="s9_7_Vladykino"
+       id="line9_Vladykino"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6013,7 +6013,7 @@
          id="title167">station</title>
     </circle>
     <text
-       id="ts9_Vladykino"
+       id="tline9_Vladykino"
        class="station"
        x="912.6334773638805"
        y="-199.68326131805966"
@@ -6023,9 +6023,9 @@
        text-anchor="start"
        cursor="pointer">Владыкино</text>
     <circle
-       id="s9_2_Petr_Razumovskaya"
+       id="line9_Petr_Razumovskaya"
        class="station"
-       mclass="s9_2"
+       mclass="line9_2"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6033,7 +6033,7 @@
        cy="-146.55999999999995"
        r="5.650072015273591" />
     <text
-       id="ts9_2_Petr_Razumovskaya"
+       id="tline9_Petr_Razumovskaya"
        class="station"
        x="856.5268106972138"
        y="-140.90992798472635"
@@ -6043,9 +6043,9 @@
        text-anchor="start"
        cursor="pointer">Петровско-Разумовская</text>
     <circle
-       id="s9_7_Timiryazevskaya"
+       id="line9_Timiryazevskaya"
        class="station"
-       mclass="s9_4"
+       mclass="line9_4"
        fill="#f5f5dc"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6056,7 +6056,7 @@
          id="title168">station</title>
     </circle>
     <text
-       id="ts9_4_Timiryazevskaya"
+       id="tline9_Timiryazevskaya"
        class="station"
        x="791.2081532951494"
        y="-85.01659465139304"
@@ -6066,7 +6066,7 @@
        text-anchor="end"
        cursor="pointer">Тимирязевская</text>
     <circle
-       id="s9_7_Dmitrovskaya"
+       id="line9_Dmitrovskaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6079,7 +6079,7 @@
          id="title169">station</title>
     </circle>
     <text
-       id="ts9_Dmitrovskaya"
+       id="tline9_Dmitrovskaya"
        class="station"
        x="816.6334773638805"
        y="-31.683261318059724"
@@ -6089,9 +6089,9 @@
        text-anchor="start"
        cursor="pointer">Дмитровская</text>
     <circle
-       id="s9_4_7_Savyolovskaya"
+       id="line9_Savyolovskaya"
        class="station"
-       mclass="s9_5"
+       mclass="line9_5"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6102,7 +6102,7 @@
          id="title170">station</title>
     </circle>
     <text
-       id="ts9_5_Savyolovskaya"
+       id="tline9_Savyolovskaya"
        class="station"
        x="816.6334773638805"
        y="-0.6334773638804965"
@@ -6112,9 +6112,9 @@
        text-anchor="start"
        cursor="pointer">Савёловская</text>
     <circle
-       id="s9_7_Mendeleyevskaya"
+       id="line9_Mendeleyevskaya"
        class="station"
-       mclass="s9_5"
+       mclass="line9_5"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6125,7 +6125,7 @@
          id="title171">station</title>
     </circle>
     <text
-       id="ts9_5_Mendeleyevskaya"
+       id="tline9_Mendeleyevskaya"
        class="station"
        x="832.6334773638805"
        y="63.366522636119505"
@@ -6135,9 +6135,9 @@
        text-anchor="start"
        cursor="pointer">Менделеевская</text>
     <circle
-       id="s9_7_Tsvetnoy_Bulvar"
+       id="line9_Tsvetnoy_Bulvar"
        class="station"
-       mclass="s9_1"
+       mclass="line9_1"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6148,7 +6148,7 @@
          id="title172">station</title>
     </circle>
     <text
-       id="ts9_1_Tsvetnoy_Bulvar"
+       id="tline9_Tsvetnoy_Bulvar"
        class="station"
        x="924.5414866284826"
        y="221.6500720152736"
@@ -6158,9 +6158,9 @@
        text-anchor="end"
        cursor="pointer">Цветной б-р</text>
     <circle
-       id="s9_7_Chekhovskaya"
+       id="line9_Chekhovskaya"
        class="station"
-       mclass="s9_2"
+       mclass="line9_2"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6171,7 +6171,7 @@
          id="title173">station</title>
     </circle>
     <text
-       id="ts9_2_Chekhovskaya"
+       id="tline9_Chekhovskaya"
        class="station"
        x="869.9668106972138"
        y="325.65007201527357"
@@ -6181,9 +6181,9 @@
        text-anchor="start"
        cursor="pointer">Чеховская</text>
     <circle
-       id="s9_7_12_Borovitskaya"
+       id="line9_Borovitskaya"
        class="station"
-       mclass="s9_3"
+       mclass="line9_3"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6194,7 +6194,7 @@
          id="title154">station</title>
     </circle>
     <text
-       id="ts9_3_Borovitskaya"
+       id="tline9_Borovitskaya"
        class="station"
        x="869.9668106972138"
        y="555.9336213944277"
@@ -6204,9 +6204,9 @@
        text-anchor="start"
        cursor="pointer">Боровицкая</text>
     <circle
-       id="s9_7_Polyanka"
+       id="line9_Polyanka"
        class="station"
-       mclass="s9_4"
+       mclass="line9_4"
        fill="#f5f5dc"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6217,7 +6217,7 @@
          id="title186">station</title>
     </circle>
     <text
-       id="ts9_4_Polyanka"
+       id="tline9_Polyanka"
        class="station"
        x="964.0081532951493"
        y="693.6500720152736"
@@ -6227,9 +6227,9 @@
        text-anchor="end"
        cursor="pointer">Полянка</text>
     <circle
-       id="s9_7_Serpukhovskaya"
+       id="line9_Serpukhovskaya"
        class="station"
-       mclass="s9_2"
+       mclass="line9_2"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6240,7 +6240,7 @@
          id="title187">station</title>
     </circle>
     <text
-       id="ts9_2_Serpukhovskaya"
+       id="tline9_Serpukhovskaya"
        class="station"
        x="1072.6334773638805"
        y="837.6500720152736"
@@ -6250,7 +6250,7 @@
        text-anchor="start"
        cursor="pointer">Серпуховская</text>
     <circle
-       id="s9_7_Tulskaya"
+       id="line9_Tulskaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6263,7 +6263,7 @@
          id="title196">station</title>
     </circle>
     <text
-       id="ts9_Tulskaya"
+       id="tline9_Tulskaya"
        class="station"
        x="1072.6334773638805"
        y="981.6500720152736"
@@ -6273,7 +6273,7 @@
        text-anchor="start"
        cursor="pointer">Тульская</text>
     <circle
-       id="s9_7_Nagatinskaya"
+       id="line9_Nagatinskaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6286,7 +6286,7 @@
          id="title197">station</title>
     </circle>
     <text
-       id="ts9_Nagatinskaya"
+       id="tline9_Nagatinskaya"
        class="station"
        x="1072.6334773638805"
        y="1077.6500720152735"
@@ -6296,7 +6296,7 @@
        text-anchor="start"
        cursor="pointer">Нагатинская</text>
     <circle
-       id="s9_7_Nagornaya"
+       id="line9_Nagornaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6309,7 +6309,7 @@
          id="title199">station</title>
     </circle>
     <text
-       id="ts9_Nagornaya"
+       id="tline9_Nagornaya"
        class="station"
        x="1072.6334773638805"
        y="1104.31673868194"
@@ -6319,7 +6319,7 @@
        text-anchor="start"
        cursor="pointer">Нагорная</text>
     <circle
-       id="s9_7_Nakhimovsky_Prospekt"
+       id="line9_Nakhimovsky_Prospekt"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6332,7 +6332,7 @@
          id="title200">station</title>
     </circle>
     <text
-       id="ts9_Nakhimovsky_Prospekt"
+       id="tline9_Nakhimovsky_Prospekt"
        class="station"
        x="1072.6334773638805"
        y="1130.9834053486068"
@@ -6342,9 +6342,9 @@
        text-anchor="start"
        cursor="pointer">Нахимовский пр-т</text>
     <circle
-       id="s9_7_4_Sevastopolskaya"
+       id="line9_Sevastopolskaya"
        class="station"
-       mclass="s9_6"
+       mclass="line9_6"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6355,7 +6355,7 @@
          id="title201">station</title>
     </circle>
     <text
-       id="ts9_6_Sevastopolskaya"
+       id="tline9_Sevastopolskaya"
        class="station"
        x="1031.2081532951493"
        y="1146.033189302786"
@@ -6365,7 +6365,7 @@
        text-anchor="end"
        cursor="pointer">Севастопольская</text>
     <circle
-       id="s9_7_Chertanovskaya"
+       id="line9_Chertanovskaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6378,7 +6378,7 @@
          id="title202">station</title>
     </circle>
     <text
-       id="ts9_Chertanovskaya"
+       id="tline9_Chertanovskaya"
        class="station"
        x="1031.0334773638806"
        y="1194.9834053486068"
@@ -6388,7 +6388,7 @@
        text-anchor="start"
        cursor="pointer">Чертановская</text>
     <circle
-       id="s9_7_Yuzhnaya"
+       id="line9_Yuzhnaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6401,7 +6401,7 @@
          id="title203">station</title>
     </circle>
     <text
-       id="ts9_Yuzhnaya"
+       id="tline9_Yuzhnaya"
        class="station"
        x="1005.9668106972138"
        y="1226.9834053486068"
@@ -6411,7 +6411,7 @@
        text-anchor="start"
        cursor="pointer">Южная</text>
     <circle
-       id="s9_7_Prazhskaya"
+       id="line9_Prazhskaya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6424,7 +6424,7 @@
          id="title216">station</title>
     </circle>
     <text
-       id="ts9_Prazhskaya"
+       id="tline9_Prazhskaya"
        class="station"
        x="980.3668106972139"
        y="1258.9834053486068"
@@ -6434,7 +6434,7 @@
        text-anchor="start"
        cursor="pointer">Пражская</text>
     <circle
-       id="s9_7_Ulitsa_Ak_Yangelya"
+       id="line9_Ulitsa_Ak_Yangelya"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6447,7 +6447,7 @@
          id="title217">station</title>
     </circle>
     <text
-       id="ts9_Ulitsa_Ak_Yangelya"
+       id="tline9_Ulitsa_Ak_Yangelya"
        class="station"
        x="954.7668106972138"
        y="1290.9834053486068"
@@ -6457,7 +6457,7 @@
        text-anchor="start"
        cursor="pointer">Ул. Ак. Янгеля</text>
     <circle
-       id="s9_7_Annino"
+       id="line9_Annino"
        class="station"
        mclass="s9"
        fill="#f5f5dc"
@@ -6470,7 +6470,7 @@
          id="title218">station</title>
     </circle>
     <text
-       id="ts9_Annino"
+       id="tline9_Annino"
        class="station"
        x="929.7001440305471"
        y="1322.9834053486068"
@@ -6480,9 +6480,9 @@
        text-anchor="start"
        cursor="pointer">Аннино</text>
     <circle
-       id="s9_7_Bulvar_Dm_Donskogo"
+       id="line9_Bulvar_Dm_Donskogo"
        class="station"
-       mclass="s9_2"
+       mclass="line9_2"
        fill="#a1a2a3"
        stroke="#a1a2a3"
        stroke-width="1.4125180038183978"
@@ -6493,7 +6493,7 @@
          id="title219">station</title>
     </circle>
     <text
-       id="ts9_2_Bulvar_Dm_Donskogo"
+       id="tline9_Bulvar_Dm_Donskogo"
        class="station"
        x="891.3001440305471"
        y="1370.9834053486068"
@@ -6503,7 +6503,7 @@
        text-anchor="start"
        cursor="pointer">Бульвар Дм. Донского</text>
     <circle
-       id="s10_10_Fizteh"
+       id="line10_Fizteh"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6516,7 +6516,7 @@
          id="title67">station</title>
     </circle>
     <text
-       id="ts10_Fizteh"
+       id="tline10_Fizteh"
        class="station"
        x="817.874819961816"
        y="-362.34992798472643"
@@ -6526,7 +6526,7 @@
        text-anchor="end"
        cursor="pointer">Физтех</text>
     <circle
-       id="s10_10_Lianozovo"
+       id="line10_Lianozovo"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6539,7 +6539,7 @@
          id="title66">station</title>
     </circle>
     <text
-       id="ts10_Lianozovo"
+       id="tline10_Lianozovo"
        class="station"
        x="817.874819961816"
        y="-325.01659465139306"
@@ -6549,7 +6549,7 @@
        text-anchor="end"
        cursor="pointer">Лианозово</text>
     <circle
-       id="s10_10_Yahromskaya"
+       id="line10_Yahromskaya"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6562,7 +6562,7 @@
          id="title65">station</title>
     </circle>
     <text
-       id="ts10_Yahromskaya"
+       id="tline10_Yahromskaya"
        class="station"
        x="817.874819961816"
        y="-287.6832613180597"
@@ -6572,7 +6572,7 @@
        text-anchor="end"
        cursor="pointer">Яхромская</text>
     <circle
-       id="s10_10_Seligerskaya"
+       id="line10_Seligerskaya"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6585,7 +6585,7 @@
          id="title64">station</title>
     </circle>
     <text
-       id="ts10_Seligerskaya"
+       id="tline10_Seligerskaya"
        class="station"
        x="817.874819961816"
        y="-250.3499279847264"
@@ -6595,7 +6595,7 @@
        text-anchor="end"
        cursor="pointer">Селигерская</text>
     <circle
-       id="s10_10_Verkhniye_Likhobory"
+       id="line10_Verkhniye_Likhobory"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6608,7 +6608,7 @@
          id="title63">station</title>
     </circle>
     <text
-       id="ts10_Verkhniye_Likhobory"
+       id="tline10_Verkhniye_Likhobory"
        class="station"
        x="817.874819961816"
        y="-213.01659465139304"
@@ -6618,7 +6618,7 @@
        text-anchor="end"
        cursor="pointer">Верхние Лихоборы</text>
     <circle
-       id="s10_10_Okruzhnaya"
+       id="line10_Okruzhnaya"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6631,7 +6631,7 @@
          id="title62">station</title>
     </circle>
     <text
-       id="ts10_Okruzhnaya"
+       id="tline10_Okruzhnaya"
        class="station"
        x="817.874819961816"
        y="-173.38992798472637"
@@ -6641,9 +6641,9 @@
        text-anchor="end"
        cursor="pointer">Окружная</text>
     <circle
-       id="s10_7_10_Petr_Razumovskaya"
+       id="line10_Petr_Razumovskaya"
        class="station"
-       mclass="s10_4"
+       mclass="line10_4"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="2.8250360076367955"
@@ -6654,9 +6654,9 @@
          id="title61">station</title>
     </circle>
     <circle
-       id="s10_10_Fonvizinskaya"
+       id="line10_Fonvizinskaya"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6667,7 +6667,7 @@
          id="title60">station</title>
     </circle>
     <text
-       id="ts10_1_Fonvizinskaya"
+       id="tline10_Fonvizinskaya"
        class="station"
        x="899.3001440305471"
        y="-96.74992798472638"
@@ -6677,9 +6677,9 @@
        text-anchor="start"
        cursor="pointer">Фонвизинская</text>
     <circle
-       id="s10_10_Butyrskaya"
+       id="line10_Butyrskaya"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6690,7 +6690,7 @@
          id="title59">station</title>
     </circle>
     <text
-       id="ts10_1_Butyrskaya"
+       id="tline10_Butyrskaya"
        class="station"
        x="946.2334773638804"
        y="-47.68326131805972"
@@ -6700,9 +6700,9 @@
        text-anchor="start"
        cursor="pointer">Бутырская</text>
     <circle
-       id="s10_10_Marina_Roshcha"
+       id="line10_Marina_Roshcha"
        class="station"
-       mclass="s10_6"
+       mclass="line10_6"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6713,7 +6713,7 @@
          id="title58">station</title>
     </circle>
     <text
-       id="ts10_6_Marina_Roshcha"
+       id="tline10_Marina_Roshcha"
        class="station"
        x="995.4585133715174"
        y="-5.333333333333314"
@@ -6722,9 +6722,9 @@
        font-size="15.36"
        cursor="pointer">Марьина Роща</text>
     <circle
-       id="s10_10_Dostoyevskaya"
+       id="line10_Dostoyevskaya"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6735,7 +6735,7 @@
          id="title57">station</title>
     </circle>
     <text
-       id="ts10_2_Dostoyevskaya"
+       id="tline10_Dostoyevskaya"
        class="station"
        x="992.6334773638805"
        y="53.650072015273594"
@@ -6745,9 +6745,9 @@
        text-anchor="start"
        cursor="pointer">Достоевская</text>
     <circle
-       id="s10_10_Trubnaya"
+       id="line10_Trubnaya"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6758,7 +6758,7 @@
          id="title55">station</title>
     </circle>
     <text
-       id="ts10_2_Trubnaya"
+       id="tline10_Trubnaya"
        class="station"
        x="993.5401440305471"
        y="221.6500720152736"
@@ -6768,9 +6768,9 @@
        text-anchor="start"
        cursor="pointer">Трубная</text>
     <circle
-       id="s10_8_10_Sretensky_Bulvar"
+       id="line10_Sretensky_Bulvar"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6781,7 +6781,7 @@
          id="title54">station</title>
     </circle>
     <text
-       id="ts10_2_Sretensky_Bulvar"
+       id="tline10_Sretensky_Bulvar"
        class="station"
        x="1136.6334773638805"
        y="377.27673868194023"
@@ -6792,9 +6792,9 @@
        cursor="pointer"
        transform="scale(1)">Сретенский бульвар</text>
     <circle
-       id="s10_10_Chkalovskaya"
+       id="line10_Chkalovskaya"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6805,7 +6805,7 @@
          id="title53">station</title>
     </circle>
     <text
-       id="ts10_2_Chkalovskaya"
+       id="tline10_Chkalovskaya"
        class="station"
        x="1303.4068106972138"
        y="541.8100720152736"
@@ -6815,9 +6815,9 @@
        text-anchor="start"
        cursor="pointer">Чкаловская</text>
     <circle
-       id="s10_10_Rimskaya"
+       id="line10_Rimskaya"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6828,7 +6828,7 @@
          id="title52">station</title>
     </circle>
     <text
-       id="ts10_2_Rimskaya"
+       id="tline10_Rimskaya"
        class="station"
        x="1419.3001440305472"
        y="688.3167386819403"
@@ -6838,9 +6838,9 @@
        text-anchor="start"
        cursor="pointer">Римская</text>
     <circle
-       id="s10_10_Krestyansk_Zastava"
+       id="line10_Krestyansk_Zastava"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6851,7 +6851,7 @@
          id="title51">station</title>
     </circle>
     <text
-       id="ts10_2_Krestyansk_Zastava"
+       id="tline10_Krestyansk_Zastava"
        class="station"
        x="1419.3001440305472"
        y="778.9834053486069"
@@ -6861,7 +6861,7 @@
        text-anchor="start"
        cursor="pointer">Крестьянская застава</text>
     <circle
-       id="s10_Dubrovka"
+       id="line10_Dubrovka"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6874,7 +6874,7 @@
          id="title50">station</title>
     </circle>
     <text
-       id="ts10_Dubrovka"
+       id="tline10_Dubrovka"
        class="station"
        x="1393.874819961816"
        y="837.6500720152736"
@@ -6884,9 +6884,9 @@
        text-anchor="end"
        cursor="pointer">Дубровка</text>
     <circle
-       id="s10_10_Kozhukhovskaya"
+       id="line10_Kozhukhovskaya"
        class="station"
-       mclass="s10_5"
+       mclass="line10_5"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6897,7 +6897,7 @@
          id="title49">Kozhukhovskaya</title>
     </circle>
     <text
-       id="ts10_5_Kozhukhovskaya"
+       id="tline10_Kozhukhovskaya"
        class="station"
        x="1436.5414866284825"
        y="913.266954727761"
@@ -6907,9 +6907,9 @@
        text-anchor="end"
        cursor="pointer">Кожуховская</text>
     <circle
-       id="s10_4_10_Pechatniki"
+       id="line10_Pechatniki"
        class="station"
-       mclass="s10_2"
+       mclass="line10_2"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6920,7 +6920,7 @@
          id="title48">station</title>
     </circle>
     <text
-       id="ts10_2_Pechatniki"
+       id="tline10_Pechatniki"
        class="station"
        x="1493.9668106972138"
        y="930.9834053486069"
@@ -6930,7 +6930,7 @@
        text-anchor="start"
        cursor="pointer">Печатники</text>
     <circle
-       id="s10_10_Volzhskaya"
+       id="line10_Volzhskaya"
        class="station"
        mclass="s10"
        fill="#f5f5dc"
@@ -6943,7 +6943,7 @@
          id="title47">station</title>
     </circle>
     <text
-       id="ts10_Volzhskaya"
+       id="tline10_Volzhskaya"
        class="station"
        x="1521.874819961816"
        y="1013.6500720152736"
@@ -6953,9 +6953,9 @@
        text-anchor="end"
        cursor="pointer">Волжская</text>
     <circle
-       id="s10_10_Lyublino"
+       id="line10_Lyublino"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6966,7 +6966,7 @@
          id="title46">station</title>
     </circle>
     <text
-       id="ts10_1_Lyublino"
+       id="tline10_Lyublino"
        class="station"
        x="1499.3001440305472"
        y="1082.9834053486068"
@@ -6976,9 +6976,9 @@
        text-anchor="start"
        cursor="pointer">Люблино</text>
     <circle
-       id="s10_10_Bratislavskaya"
+       id="line10_Bratislavskaya"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -6989,7 +6989,7 @@
          id="title45">station</title>
     </circle>
     <text
-       id="ts10_1_Bratislavskaya"
+       id="tline10_Bratislavskaya"
        class="station"
        x="1456.6334773638805"
        y="1125.6500720152735"
@@ -6999,9 +6999,9 @@
        text-anchor="start"
        cursor="pointer">Братиславская</text>
     <circle
-       id="s10_10_Marino"
+       id="line10_Marino"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -7012,7 +7012,7 @@
          id="title44">station</title>
     </circle>
     <text
-       id="ts10_1_Marino"
+       id="tline10_Marino"
        class="station"
        x="1419.3001440305472"
        y="1184.31673868194"
@@ -7022,9 +7022,9 @@
        text-anchor="start"
        cursor="pointer">Марьино</text>
     <circle
-       id="s10_10_Borisovo"
+       id="line10_Borisovo"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -7035,7 +7035,7 @@
          id="title43">station</title>
     </circle>
     <text
-       id="ts10_1_Borisovo"
+       id="tline10_Borisovo"
        class="station"
        x="1419.3001440305472"
        y="1226.9834053486068"
@@ -7045,9 +7045,9 @@
        text-anchor="start"
        cursor="pointer">Борисово</text>
     <circle
-       id="s10_10_Shipilovskaya"
+       id="line10_Shipilovskaya"
        class="station"
-       mclass="s10_1"
+       mclass="line10_1"
        fill="#f5f5dc"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -7058,7 +7058,7 @@
          id="title42">station</title>
     </circle>
     <text
-       id="ts10_1_Shipilovskaya"
+       id="tline10_Shipilovskaya"
        class="station"
        x="1419.3001440305472"
        y="1269.6500720152735"
@@ -7068,9 +7068,9 @@
        text-anchor="start"
        cursor="pointer">Шипиловская</text>
     <circle
-       id="s10_10_Zyablikovo"
+       id="line10_Zyablikovo"
        class="station"
-       mclass="s10_3"
+       mclass="line10_3"
        fill="#b3d445"
        stroke="#b3d445"
        stroke-width="1.4125180038183978"
@@ -7081,7 +7081,7 @@
          id="title41">station</title>
     </circle>
     <text
-       id="ts10_3_Zyablikovo"
+       id="tline10_Zyablikovo"
        class="station"
        x="1400.9374099809081"
        y="1339.9336213944275"
@@ -7091,7 +7091,7 @@
        text-anchor="middle"
        cursor="pointer">Зябликово</text>
     <circle
-       id="s11_Kuntsevskaya"
+       id="line11_Kuntsevskaya"
        class="station"
        mclass="s11"
        fill="#f5f5dc"
@@ -7101,9 +7101,9 @@
        cy="266.6666666666667"
        r="5.650072015273591" />
     <circle
-       id="s11_4_Terekhovo"
+       id="line11_Terekhovo"
        class="station"
-       mclass="s11_8"
+       mclass="line11_8"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7114,7 +7114,7 @@
          id="title290">station</title>
     </circle>
     <text
-       id="ts11_8_Terekhovo"
+       id="tline11_Terekhovo"
        class="station"
        x="215.2081532951494"
        y="223.3665226361195"
@@ -7124,9 +7124,9 @@
        text-anchor="end"
        cursor="pointer">Терехово</text>
     <circle
-       id="s11_4_Mnyovniki"
+       id="line11_Mnyovniki"
        class="station"
-       mclass="s11_6"
+       mclass="line11_6"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.41252"
@@ -7137,7 +7137,7 @@
          id="title289">station</title>
     </circle>
     <text
-       id="ts11_6_Mnyovniki"
+       id="tline11_Mnyovniki"
        class="station"
        x="307.60407664757474"
        y="223.3665226361195"
@@ -7147,9 +7147,9 @@
        text-anchor="middle"
        cursor="pointer">Мнёвники</text>
     <circle
-       id="s11_4_Narodnoe_Opolchenie"
+       id="line11_Narodnoe_Opolchenie"
        class="station"
-       mclass="s11_15"
+       mclass="line11_15"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7161,7 +7161,7 @@
          id="title291">station</title>
     </circle>
     <text
-       id="ts11_15_Narodnoe_Opolchenie"
+       id="tline11_Narodnoe_Opolchenie"
        class="station"
        x="392.937409980908"
        y="257.26695472776106"
@@ -7171,9 +7171,9 @@
        text-anchor="middle"
        cursor="pointer">Народ. Ополчение</text>
     <circle
-       id="s11_9_Khoroshyobskaya"
+       id="line11_Khoroshyobskaya"
        class="station"
-       mclass="s11_9"
+       mclass="line11_9"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7181,7 +7181,7 @@
        cy="213.33333333333334"
        r="5.650072015273591" />
     <text
-       id="ts11_9_Khoroshyobskaya"
+       id="tline11_Khoroshyobskaya"
        class="station"
        x="519.2081532951494"
        y="218.98340534860694"
@@ -7191,9 +7191,9 @@
        text-anchor="end"
        cursor="pointer">Хорошёвская</text>
     <circle
-       id="s11_4_CSKA"
+       id="line11_CSKA"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7204,7 +7204,7 @@
          id="title276">station</title>
     </circle>
     <text
-       id="ts11_1_CSKA"
+       id="tline11_CSKA"
        class="station"
        x="613.9668106972139"
        y="149.6500720152736"
@@ -7214,9 +7214,9 @@
        text-anchor="start"
        cursor="pointer">ЦСКА</text>
     <circle
-       id="s11_4_Petrovsky_Park"
+       id="line11_Petrovsky_Park"
        class="station"
-       mclass="s11_7"
+       mclass="line11_7"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7227,7 +7227,7 @@
          id="title277">station</title>
     </circle>
     <text
-       id="ts11_7_Petrovsky_Park"
+       id="tline11_Petrovsky_Park"
        class="station"
        x="689.4334773638805"
        y="74.1834053486069"
@@ -7237,9 +7237,9 @@
        text-anchor="start"
        cursor="pointer">Петровский Парк</text>
     <circle
-       id="s11_4_Savyolovskaya"
+       id="line11_Savyolovskaya"
        class="station"
-       mclass="s11_14"
+       mclass="line11_14"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7250,9 +7250,9 @@
          id="title278">station</title>
     </circle>
     <circle
-       id="s11_4_Marina_Roshcha"
+       id="line11_Marina_Roshcha"
        class="station"
-       mclass="s11_11"
+       mclass="line11_11"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7263,9 +7263,9 @@
          id="title279">station</title>
     </circle>
     <circle
-       id="s11_4_8_Rizhskaya"
+       id="line11_Rizhskaya"
        class="station"
-       mclass="s11_4"
+       mclass="line11_4"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7276,9 +7276,9 @@
          id="title228">station</title>
     </circle>
     <circle
-       id="s11_4_Sokolniki"
+       id="line11_Sokolniki"
        class="station"
-       mclass="s11_9"
+       mclass="line11_9"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7289,9 +7289,9 @@
          id="title264">station</title>
     </circle>
     <circle
-       id="s11_4_Elektrozavodskaya"
+       id="line11_Elektrozavodskaya"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7302,7 +7302,7 @@
          id="title280">station</title>
     </circle>
     <text
-       id="ts11_1_Elektrozavodskaya"
+       id="tline11_Elektrozavodskaya"
        class="station"
        x="1397.9668106972138"
        y="352.31673868194025"
@@ -7312,9 +7312,9 @@
        text-anchor="start"
        cursor="pointer">Электрозаводская</text>
     <circle
-       id="s11_4_Lefortovo"
+       id="line11_Lefortovo"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7325,7 +7325,7 @@
          id="title195">station</title>
     </circle>
     <text
-       id="ts11_1_Lefortovo"
+       id="tline11_Lefortovo"
        class="station"
        x="1493.9668106972138"
        y="464.31673868194025"
@@ -7335,9 +7335,9 @@
        text-anchor="start"
        cursor="pointer">Лефортово</text>
     <circle
-       id="s11_4_Aviamotornaya"
+       id="line11_Aviamotornaya"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7348,7 +7348,7 @@
          id="title281">station</title>
     </circle>
     <text
-       id="ts11_1_Aviamotornaya"
+       id="tline11_Aviamotornaya"
        class="station"
        x="1536.6334773638805"
        y="613.6500720152736"
@@ -7358,9 +7358,9 @@
        text-anchor="start"
        cursor="pointer">Авиамоторная</text>
     <circle
-       id="s11_3_Nizhegorodskaya"
+       id="line11_Nizhegorodskaya"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7368,9 +7368,9 @@
        cy="682.6666666666666"
        r="5.650072015273591" />
     <circle
-       id="s11_4_Tekstilshchiki"
+       id="line11_Tekstilshchiki"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7381,9 +7381,9 @@
          id="title254">station</title>
     </circle>
     <circle
-       id="s11_4_Pechatniki"
+       id="line11_Pechatniki"
        class="station"
-       mclass="s11_9"
+       mclass="line11_9"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7394,7 +7394,7 @@
          id="title282">station</title>
     </circle>
     <text
-       id="ts11_9_Pechatniki"
+       id="tline11_Pechatniki"
        class="station"
        x="1450.4082"
        y="954.9834"
@@ -7408,9 +7408,9 @@
          y="954.9834"
          id="tspan4">Печатники</tspan></text>
     <circle
-       id="s11_4_Nagatinsky_Zaton"
+       id="line11_Nagatinsky_Zaton"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7421,7 +7421,7 @@
          id="title283">station</title>
     </circle>
     <text
-       id="ts11_1_Nagatinsky_Zaton"
+       id="tline11_Nagatinsky_Zaton"
        class="station"
        x="1396.9001440305472"
        y="1061.6500720152735"
@@ -7431,9 +7431,9 @@
        text-anchor="start"
        cursor="pointer">Нагатинский затон</text>
     <circle
-       id="s11_4_Klenoviy_bulvar"
+       id="line11_Klenoviy_bulvar"
        class="station"
-       mclass="s11_1"
+       mclass="line11_1"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7444,7 +7444,7 @@
          id="title284">station</title>
     </circle>
     <text
-       id="ts11_1_Klenoviy_bulvar"
+       id="tline11_Klenoviy_bulvar"
        class="station"
        x="1364.9001440305472"
        y="1104.31673868194"
@@ -7454,9 +7454,9 @@
        text-anchor="start"
        cursor="pointer">Кленовый б-р</text>
     <circle
-       id="s11_4_6_Kashirskaya"
+       id="line11_Kashirskaya"
        class="station"
-       mclass="s11_5"
+       mclass="line11_5"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="2.8250360076367955"
@@ -7467,9 +7467,9 @@
          id="title35">station</title>
     </circle>
     <circle
-       id="s11_4_Varshavskaya"
+       id="line11_Varshavskaya"
        class="station"
-       mclass="s11_10"
+       mclass="line11_10"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7480,7 +7480,7 @@
          id="title285">station</title>
     </circle>
     <text
-       id="ts11_10_Varshavskaya"
+       id="tline11_Varshavskaya"
        class="station"
        x="1179.3001440305472"
        y="1162.033189302786"
@@ -7490,9 +7490,9 @@
        text-anchor="start"
        cursor="pointer">Варшавская</text>
     <circle
-       id="s11_4_Kakhovskaya"
+       id="line11_Kakhovskaya"
        class="station"
-       mclass="s11_4"
+       mclass="line11_4"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7503,7 +7503,7 @@
          id="title204">station</title>
     </circle>
     <text
-       id="ts11_4_Kakhovskaya"
+       id="tline11_Kakhovskaya"
        class="station"
        x="1077.966810697214"
        y="1162.033189302786"
@@ -7513,9 +7513,9 @@
        text-anchor="start"
        cursor="pointer">Каховская</text>
     <circle
-       id="s11_4_Zyuzino"
+       id="line11_Zyuzino"
        class="station"
-       mclass="s11_15"
+       mclass="line11_15"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7526,7 +7526,7 @@
          id="title205">station</title>
     </circle>
     <text
-       id="ts11_15_Zyuzino"
+       id="tline11_Zyuzino"
        class="station"
        x="888.937409980908"
        y="1179.9336213944275"
@@ -7536,9 +7536,9 @@
        text-anchor="middle"
        cursor="pointer">Зюзино</text>
     <circle
-       id="s11_4_Vorontsovskaya"
+       id="line11_Vorontsovskaya"
        class="station"
-       mclass="s11_13"
+       mclass="line11_13"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7549,7 +7549,7 @@
          id="title212">station</title>
     </circle>
     <text
-       id="ts11_13_Vorontsovskaya"
+       id="tline11_Vorontsovskaya"
        class="station"
        x="684.5414866284827"
        y="1179.9336213944275"
@@ -7559,9 +7559,9 @@
        text-anchor="end"
        cursor="pointer">Воронцовская</text>
     <circle
-       id="s11_4_Novatorskaya"
+       id="line11_Novatorskaya"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7572,7 +7572,7 @@
          id="title215">station</title>
     </circle>
     <text
-       id="ts11_3_Novatorskaya"
+       id="tline11_Novatorskaya"
        class="station"
        x="515.4585133715174"
        y="1054.9333333333334"
@@ -7581,9 +7581,9 @@
        font-size="15.36"
        cursor="pointer">Новаторская</text>
     <circle
-       id="s11_4_Prospekt_Vernadskogo"
+       id="line11_Prospekt_Vernadskogo"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7594,9 +7594,9 @@
          id="title286">station</title>
     </circle>
     <circle
-       id="s11_4_Michurinsky_Prospekt"
+       id="line11_Michurinsky_Prospekt"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7607,7 +7607,7 @@
          id="title287">station</title>
     </circle>
     <text
-       id="ts11_3_Michurinsky_Prospekt"
+       id="tline11_Michurinsky_Prospekt"
        class="station"
        x="371.45851337151737"
        y="757.3333333333333"
@@ -7616,9 +7616,9 @@
        font-size="15.36"
        cursor="pointer">Мичуринский пр-т</text>
     <circle
-       id="s11_2_Aminyevskaya"
+       id="line11_Aminyevskaya"
        class="station"
-       mclass="s11_2"
+       mclass="line11_2"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7626,7 +7626,7 @@
        cy="638.6133333333333"
        r="5.650072015273591" />
     <text
-       id="ts11_2_Aminyevskaya"
+       id="tline11_Aminyevskaya"
        class="station"
        x="224.4881532951495"
        y="644.263405348607"
@@ -7636,9 +7636,9 @@
        text-anchor="end"
        cursor="pointer">Аминьевская</text>
     <circle
-       id="s11_4_Davydkovo"
+       id="line11_Davydkovo"
        class="station"
-       mclass="s11_2"
+       mclass="line11_2"
        fill="#f5f5dc"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7649,7 +7649,7 @@
          id="title15">station</title>
     </circle>
     <text
-       id="ts11_2_Davydkovo"
+       id="tline11_Davydkovo"
        class="station"
        x="168.64815329514946"
        y="588.4234053486069"
@@ -7659,9 +7659,9 @@
        text-anchor="end"
        cursor="pointer">Давыдково</text>
     <circle
-       id="s11_4_Kuntsevskaya"
+       id="line11_Kuntsevskaya"
        class="station"
-       mclass="s11_3"
+       mclass="line11_3"
        fill="#79cdcd"
        stroke="#79cdcd"
        stroke-width="1.4125180038183978"
@@ -7672,7 +7672,7 @@
          id="title185">station</title>
     </circle>
     <circle
-       id="s11A_3_4_Delovoy_Tsentr"
+       id="s11A_Delovoy_Tsentr"
        class="station"
        mclass="s11A"
        fill="#79cdcd"
@@ -7685,7 +7685,7 @@
          id="title117">station</title>
     </circle>
     <circle
-       id="s11A_4_Shelepikha"
+       id="s11A_Shelepikha"
        class="station"
        mclass="s11A_1"
        fill="#f5f5dc"
@@ -7698,7 +7698,7 @@
          id="title270">Shelepikha_bkl</title>
     </circle>
     <text
-       id="ts11A_1_Shelepikha"
+       id="ts11A_Shelepikha"
        class="station"
        x="327.2081532951494"
        y="292.6998559694528"
@@ -7708,7 +7708,7 @@
        text-anchor="end"
        cursor="pointer">Шелепиха</text>
     <circle
-       id="s11A_4_Khoroshyobskaya"
+       id="s11A_Khoroshyobskaya"
        class="station"
        mclass="s11A_2"
        fill="#79cdcd"
@@ -7722,9 +7722,9 @@
          id="title272">station</title>
     </circle>
     <circle
-       id="s12_3_Bittsevsky_Park"
+       id="line12_Bittsevsky_Park"
        class="station"
-       mclass="s12_3"
+       mclass="line12_3"
        fill="#acbfe1"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7735,7 +7735,7 @@
          id="title96">Bittsevsky_Park</title>
     </circle>
     <text
-       id="ts12_3_Bittsevsky_Park"
+       id="tline12_Bittsevsky_Park"
        class="station"
        x="760.7918467048507"
        y="1344"
@@ -7744,9 +7744,9 @@
        font-size="15.36"
        cursor="pointer">Битцевский парк</text>
     <circle
-       id="s12_4_Lesoparkovaya"
+       id="line12_Lesoparkovaya"
        class="station"
-       mclass="s12_4"
+       mclass="line12_4"
        fill="#f5f5dc"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7757,7 +7757,7 @@
          id="title95">Lesoparkovaya</title>
     </circle>
     <text
-       id="ts12_4_Lesoparkovaya"
+       id="tline12_Lesoparkovaya"
        class="station"
        x="793.874819961816"
        y="1385.800288061094"
@@ -7767,9 +7767,9 @@
        text-anchor="end"
        cursor="pointer">Лесопарковая</text>
     <circle
-       id="s12_5_Starokachalovskaya"
+       id="line12_Starokachalovskaya"
        class="station"
-       mclass="s12_5"
+       mclass="line12_5"
        fill="#acbfe1"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7780,7 +7780,7 @@
          id="title94">station</title>
     </circle>
     <text
-       id="ts12_5_Starokachalovskaya"
+       id="tline12_Starokachalovskaya"
        class="station"
        x="878.5001440305472"
        y="1403.9336213944275"
@@ -7790,9 +7790,9 @@
        text-anchor="start"
        cursor="pointer">Ул. Старокачаловская</text>
     <circle
-       id="s12_2_Ulitsa_Skobelevskaya"
+       id="line12_Ulitsa_Skobelevskaya"
        class="station"
-       mclass="s12_2"
+       mclass="line12_2"
        fill="#f5f5dc"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7803,7 +7803,7 @@
          id="title93">station</title>
     </circle>
     <text
-       id="ts12_2_Ulitsa_Skobelevskaya"
+       id="tline12_Ulitsa_Skobelevskaya"
        class="station"
        x="827.3001440305471"
        y="1462.6002880610943"
@@ -7813,9 +7813,9 @@
        text-anchor="start"
        cursor="pointer">Ул. Скобелевская</text>
     <circle
-       id="s12_1_Bulvar_Adm_Ushakova"
+       id="line12_Bulvar_Adm_Ushakova"
        class="station"
-       mclass="s12_1"
+       mclass="line12_1"
        fill="#f5f5dc"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7826,7 +7826,7 @@
          id="title92">Bulvar_Adm_Ushakova</title>
     </circle>
     <text
-       id="ts12_1_Bulvar_Adm_Ushakova"
+       id="tline12_Bulvar_Adm_Ushakova"
        class="station"
        x="712.937409980908"
        y="1462.6002880610943"
@@ -7836,7 +7836,7 @@
        text-anchor="middle"
        cursor="pointer">Б-р Адм. Ушакова</text>
     <circle
-       id="s12_Ulitsa_Gorchakova"
+       id="line12_Ulitsa_Gorchakova"
        class="station"
        mclass="s12"
        fill="#f5f5dc"
@@ -7849,7 +7849,7 @@
          id="title91">Ulitsa_Gorchakova</title>
     </circle>
     <text
-       id="ts12_Ulitsa_Gorchakova"
+       id="tline12_Ulitsa_Gorchakova"
        class="station"
        x="600.937409980908"
        y="1428.6998559694528"
@@ -7859,9 +7859,9 @@
        text-anchor="middle"
        cursor="pointer">Ул. Горчакова</text>
     <circle
-       id="s12_1_Buninskaya_Alleya"
+       id="line12_Buninskaya_Alleya"
        class="station"
-       mclass="s12_1"
+       mclass="line12_1"
        fill="#f5f5dc"
        stroke="#acbfe1"
        stroke-width="1.4125180038183978"
@@ -7872,7 +7872,7 @@
          id="title90">Buninskaya_Alleya</title>
     </circle>
     <text
-       id="ts12_1_Buninskaya_Alleya"
+       id="tline12_Buninskaya_Alleya"
        class="station"
        x="478.2707433142414"
        y="1462.6002880610943"
@@ -7882,7 +7882,7 @@
        text-anchor="middle"
        cursor="pointer">Бунинская аллея</text>
     <circle
-       id="s13_19_Timiryazevskaya"
+       id="line13_Timiryazevskaya"
        class="station"
        mclass="s13"
        fill="#2c87c5"
@@ -7895,7 +7895,7 @@
          id="title362">station</title>
     </circle>
     <circle
-       id="s13_19_Ulitsa_Milashenkova"
+       id="line13_Ulitsa_Milashenkova"
        class="station"
        mclass="s13"
        fill="#2c87c5"
@@ -7908,7 +7908,7 @@
          id="title361">station</title>
     </circle>
     <circle
-       id="s13_19_Teletsentr"
+       id="line13_Teletsentr"
        class="station"
        mclass="s13"
        fill="#2c87c5"
@@ -7921,7 +7921,7 @@
          id="title360">station</title>
     </circle>
     <circle
-       id="s13_19_Ulitsa_Ak_Koroleva"
+       id="line13_Ulitsa_Ak_Koroleva"
        class="station"
        mclass="s13"
        fill="#2c87c5"
@@ -7934,7 +7934,7 @@
          id="title359">station</title>
     </circle>
     <circle
-       id="s13_19_Vystavochny_Tsentr"
+       id="line13_Vystavochny_Tsentr"
        class="station"
        mclass="s13"
        fill="#2c87c5"
@@ -7947,9 +7947,9 @@
          id="title358">station</title>
     </circle>
     <circle
-       id="s13_19_Ulitsa_Eyzenshteyna"
+       id="line13_Ulitsa_Eyzenshteyna"
        class="station"
-       mclass="s13_1"
+       mclass="line13_1"
        fill="#2c87c5"
        stroke="#2c87c5"
        stroke-width="1.4125180038183978"
@@ -7960,9 +7960,9 @@
          id="title357">station</title>
     </circle>
     <circle
-       id="s14_5_Vladykino"
+       id="line14_Vladykino"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -7970,9 +7970,9 @@
        cy="-172.79999999999995"
        r="4.2375540114551935" />
     <circle
-       id="s14_15_Okruzhnaya"
+       id="line14_Okruzhnaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -7983,7 +7983,7 @@
          id="title308">station</title>
     </circle>
     <circle
-       id="s14_15_Lihobory"
+       id="line14_Lihobory"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -7996,7 +7996,7 @@
          id="title326">station</title>
     </circle>
     <text
-       id="ts14_Lihobory"
+       id="tline14_Lihobory"
        class="station"
        x="736.6334773638805"
        y="-124.48326131805973"
@@ -8006,7 +8006,7 @@
        text-anchor="start"
        cursor="pointer">Лихоборы</text>
     <circle
-       id="s14_15_Koptevo"
+       id="line14_Koptevo"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8019,7 +8019,7 @@
          id="title325">station</title>
     </circle>
     <text
-       id="ts14_Koptevo"
+       id="tline14_Koptevo"
        class="station"
        x="636.3668106972139"
        y="-72.74992798472638"
@@ -8029,9 +8029,9 @@
        text-anchor="start"
        cursor="pointer">Коптево</text>
     <circle
-       id="s14_15_Baltiiskaya"
+       id="line14_Baltiiskaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8042,7 +8042,7 @@
          id="title324">station</title>
     </circle>
     <text
-       id="ts14_5_Baltiiskaya"
+       id="tline14_Baltiiskaya"
        class="station"
        x="579.4585133715174"
        y="-35.73333333333335"
@@ -8051,9 +8051,9 @@
        font-size="15.36"
        cursor="pointer">Балтийская</text>
     <circle
-       id="s14_15_Streshnevo"
+       id="line14_Streshnevo"
        class="station"
-       mclass="s14_2"
+       mclass="line14_2"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8064,7 +8064,7 @@
          id="title323">station</title>
     </circle>
     <text
-       id="ts14_2_Streshnevo"
+       id="tline14_Streshnevo"
        class="station"
        x="506.4081532951493"
        y="10.983405348606961"
@@ -8074,7 +8074,7 @@
        text-anchor="end"
        cursor="pointer">Стрешнево</text>
     <circle
-       id="s14_15_Panfilovskaya"
+       id="line14_Panfilovskaya"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8087,7 +8087,7 @@
          id="title275">station</title>
     </circle>
     <text
-       id="ts14_Panfilovskaya"
+       id="tline14_Panfilovskaya"
        class="station"
        x="504.63347736388056"
        y="40.31673868194028"
@@ -8097,9 +8097,9 @@
        text-anchor="start"
        cursor="pointer">Панфиловская</text>
     <circle
-       id="s14_15_Zorge"
+       id="line14_Zorge"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8110,7 +8110,7 @@
          id="title274">station</title>
     </circle>
     <text
-       id="ts14_5_Zorge"
+       id="tline14_Zorge"
        class="station"
        x="478.125180038184"
        y="69.33333333333337"
@@ -8119,9 +8119,9 @@
        font-size="15.36"
        cursor="pointer">Зорге</text>
     <circle
-       id="s14_15_Horoshevo"
+       id="line14_Horoshevo"
        class="station"
-       mclass="s14_7"
+       mclass="line14_7"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8132,7 +8132,7 @@
          id="title273">station</title>
     </circle>
     <text
-       id="ts14_7_Horoshevo"
+       id="tline14_Horoshevo"
        class="station"
        x="383.2081532951494"
        y="184.10340534860697"
@@ -8142,9 +8142,9 @@
        text-anchor="end"
        cursor="pointer">Хорошёво</text>
     <circle
-       id="s14_15_Shelepikha"
+       id="line14_Shelepikha"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8155,9 +8155,9 @@
          id="title271">station</title>
     </circle>
     <circle
-       id="s14_15_Delovoy_Tsentr"
+       id="line14_Delovoy_Tsentr"
        class="station"
-       mclass="s14_9"
+       mclass="line14_9"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8168,7 +8168,7 @@
          id="title322">station</title>
     </circle>
     <text
-       id="ts14_9_Delovoy_Tsentr"
+       id="tline14_Delovoy_Tsentr"
        class="station"
        x="357.96681069721393"
        y="324.6998559694528"
@@ -8178,9 +8178,9 @@
        text-anchor="start"
        cursor="pointer">Деловой центр</text>
     <circle
-       id="s14_15_Kutuzovskaya"
+       id="line14_Kutuzovskaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8191,9 +8191,9 @@
          id="title321">station</title>
     </circle>
     <circle
-       id="s14_15_Luzhniki"
+       id="line14_Luzhniki"
        class="station"
-       mclass="s14_7"
+       mclass="line14_7"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8204,7 +8204,7 @@
          id="title320">station</title>
     </circle>
     <text
-       id="ts14_7_Luzhniki"
+       id="tline14_Luzhniki"
        class="station"
        x="481.874819961816"
        y="869.6500720152736"
@@ -8214,9 +8214,9 @@
        text-anchor="end"
        cursor="pointer">Лужники</text>
     <circle
-       id="s14_15_Ploshad_Gagarina"
+       id="line14_Ploshad_Gagarina"
        class="station"
-       mclass="s14_7"
+       mclass="line14_7"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8227,7 +8227,7 @@
          id="title319">station</title>
     </circle>
     <text
-       id="ts14_7_Ploshad_Gagarina"
+       id="tline14_Ploshad_Gagarina"
        class="station"
        x="684.5414866284827"
        y="1020.0500720152736"
@@ -8237,9 +8237,9 @@
        text-anchor="end"
        cursor="pointer">Пл. Гагарина</text>
     <circle
-       id="s14_9_Krymskaya"
+       id="line14_Krymskaya"
        class="station"
-       mclass="s14_9"
+       mclass="line14_9"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8247,7 +8247,7 @@
        cy="1067.7333333333333"
        r="4.2375540114551935" />
     <text
-       id="ts14_9_Krymskaya"
+       id="tline14_Krymskaya"
        class="station"
        x="896.6334773638805"
        y="1056.433189302786"
@@ -8257,9 +8257,9 @@
        text-anchor="start"
        cursor="pointer">Крымская</text>
     <circle
-       id="s14_15_Verhnie_Kotly"
+       id="line14_Verhnie_Kotly"
        class="station"
-       mclass="s14_8"
+       mclass="line14_8"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8270,7 +8270,7 @@
          id="title198">station</title>
     </circle>
     <text
-       id="ts14_8_Verhnie_Kotly"
+       id="tline14_Verhnie_Kotly"
        class="station"
        x="1112.9374099809081"
        y="1039.8998559694526"
@@ -8280,9 +8280,9 @@
        text-anchor="middle"
        cursor="pointer">Верх. Котлы</text>
     <circle
-       id="s14_15_ZIL"
+       id="line14_ZIL"
        class="station"
-       mclass="s14_2"
+       mclass="line14_2"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8293,7 +8293,7 @@
          id="title318">station</title>
     </circle>
     <text
-       id="ts14_2_ZIL"
+       id="tline14_ZIL"
        class="station"
        x="1255.2081532951493"
        y="994.9834053486069"
@@ -8303,9 +8303,9 @@
        text-anchor="end"
        cursor="pointer">ЗИЛ</text>
     <circle
-       id="s14_15_Avtozavodskaya"
+       id="line14_Avtozavodskaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8316,9 +8316,9 @@
          id="title317">station</title>
     </circle>
     <circle
-       id="s14_15_Dubrovka"
+       id="line14_Dubrovka"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8329,9 +8329,9 @@
          id="title316">station</title>
     </circle>
     <circle
-       id="s14_15_Ugreshskaya"
+       id="line14_Ugreshskaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8342,7 +8342,7 @@
          id="title315">station</title>
     </circle>
     <text
-       id="ts14_5_Ugreshskaya"
+       id="tline14_Ugreshskaya"
        class="station"
        x="1478.125180038184"
        y="816"
@@ -8351,7 +8351,7 @@
        font-size="15.36"
        cursor="pointer">Угрешская</text>
     <circle
-       id="s14_15_Novohohlovskaya"
+       id="line14_Novohohlovskaya"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8364,7 +8364,7 @@
          id="title314">station</title>
     </circle>
     <text
-       id="ts14_Novohohlovskaya"
+       id="tline14_Novohohlovskaya"
        class="station"
        x="1532.3668106972139"
        y="725.6500720152736"
@@ -8374,9 +8374,9 @@
        text-anchor="start"
        cursor="pointer">Новохохловская</text>
     <circle
-       id="s14_15_Nizhegorodskaya"
+       id="line14_Nizhegorodskaya"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8387,7 +8387,7 @@
          id="title313">station</title>
     </circle>
     <text
-       id="ts14_5_Nizhegorodskaya"
+       id="tline14_Nizhegorodskaya"
        class="station"
        x="1560.2585133715172"
        y="661.3333333333333"
@@ -8396,7 +8396,7 @@
        font-size="15.36"
        cursor="pointer">Нижегородская</text>
     <circle
-       id="s14_15_Andronovka"
+       id="line14_Andronovka"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8409,7 +8409,7 @@
          id="title312">station</title>
     </circle>
     <text
-       id="ts14_Andronovka"
+       id="tline14_Andronovka"
        class="station"
        x="1580.9001440305472"
        y="586.9834053486069"
@@ -8419,9 +8419,9 @@
        text-anchor="start"
        cursor="pointer">Андроновка </text>
     <circle
-       id="s14_15_Shosse_Entuziastov"
+       id="line14_Shosse_Entuziastov"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8432,7 +8432,7 @@
          id="title311">station</title>
     </circle>
     <circle
-       id="s14_15_Sokolinaya_Gora"
+       id="line14_Sokolinaya_Gora"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8445,7 +8445,7 @@
          id="title310">station</title>
     </circle>
     <text
-       id="ts14_Sokolinaya_Gora"
+       id="tline14_Sokolinaya_Gora"
        class="station"
        x="1591.566810697214"
        y="389.65007201527357"
@@ -8456,9 +8456,9 @@
        cursor="pointer"
        transform="scale(1)">Соколиная гора</text>
     <circle
-       id="s14_15_Izmaylovo"
+       id="line14_Izmaylovo"
        class="station"
-       mclass="s14_7"
+       mclass="line14_7"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8469,7 +8469,7 @@
          id="title266">station</title>
     </circle>
     <text
-       id="ts14_7_Izmaylovo"
+       id="tline14_Izmaylovo"
        class="station"
        x="1514.9414866284826"
        y="197.6500720152736"
@@ -8479,9 +8479,9 @@
        text-anchor="end"
        cursor="pointer">Измайлово</text>
     <circle
-       id="s14_15_Lokomotiv"
+       id="line14_Lokomotiv"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8492,7 +8492,7 @@
          id="title265">station</title>
     </circle>
     <text
-       id="ts14_5_Lokomotiv"
+       id="tline14_Lokomotiv"
        class="station"
        x="1476.525180038184"
        y="77.86666666666667"
@@ -8501,9 +8501,9 @@
        font-size="15.36"
        cursor="pointer">Локомотив</text>
     <circle
-       id="s14_15_Bulvar_Rokossovskogo"
+       id="line14_Bulvar_Rokossovskogo"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8514,7 +8514,7 @@
          id="title267">station</title>
     </circle>
     <circle
-       id="s14_15_Belokamennaya"
+       id="line14_Belokamennaya"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8527,7 +8527,7 @@
          id="title268">station</title>
     </circle>
     <text
-       id="ts14_Belokamennaya"
+       id="tline14_Belokamennaya"
        class="station"
        x="1370.2334773638806"
        y="-26.34992798472641"
@@ -8537,7 +8537,7 @@
        text-anchor="start"
        cursor="pointer">Белокаменная</text>
     <circle
-       id="s14_15_Rostokino"
+       id="line14_Rostokino"
        class="station"
        mclass="s14"
        fill="#f76093"
@@ -8550,7 +8550,7 @@
          id="title269">station</title>
     </circle>
     <text
-       id="ts14_Rostokino"
+       id="tline14_Rostokino"
        class="station"
        x="1294.5001440305473"
        y="-79.68326131805966"
@@ -8560,9 +8560,9 @@
        text-anchor="start"
        cursor="pointer">Ростокино</text>
     <circle
-       id="s14_15_Botanicheskiy_Sad"
+       id="line14_Botanicheskiy_Sad"
        class="station"
-       mclass="s14_5"
+       mclass="line14_5"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8573,9 +8573,9 @@
          id="title232">station</title>
     </circle>
     <circle
-       id="s14_15_Vladykino"
+       id="line14_Vladykino"
        class="station"
-       mclass="s14_6"
+       mclass="line14_6"
        fill="#f76093"
        stroke="#f76093"
        stroke-width="1.4125180038183978"
@@ -8586,9 +8586,9 @@
          id="title309">station</title>
     </circle>
     <circle
-       id="s15_4_11_Nizhegorodskaya"
+       id="line15_Nizhegorodskaya"
        class="station"
-       mclass="s15_3"
+       mclass="line15_3"
        fill="#de62be"
        stroke="#de62be"
        stroke-width="2.8250360076367955"
@@ -8599,7 +8599,7 @@
          id="title97">station</title>
     </circle>
     <text
-       id="ts15_3_Nizhegorodskaya"
+       id="tline15_Nizhegorodskaya"
        class="station"
        x="1611.3001440305472"
        y="688.3167386819403"
@@ -8609,7 +8609,7 @@
        text-anchor="start"
        cursor="pointer">Нижегородская</text>
     <circle
-       id="s15_11_Stahanovskaya"
+       id="line15_Stahanovskaya"
        class="station"
        mclass="s15"
        fill="#f5f5dc"
@@ -8622,7 +8622,7 @@
          id="title98">station</title>
     </circle>
     <text
-       id="ts15_Stahanovskaya"
+       id="tline15_Stahanovskaya"
        class="station"
        x="1679.0334773638804"
        y="756.0500720152736"
@@ -8632,7 +8632,7 @@
        text-anchor="start"
        cursor="pointer">Стахановская</text>
     <circle
-       id="s15_11_Okskaya_Ulitsa"
+       id="line15_Okskaya_Ulitsa"
        class="station"
        mclass="s15"
        fill="#f5f5dc"
@@ -8645,7 +8645,7 @@
          id="title99">station</title>
     </circle>
     <text
-       id="ts15_Okskaya_Ulitsa"
+       id="tline15_Okskaya_Ulitsa"
        class="station"
        x="1701.9668106972138"
        y="816.3167386819403"
@@ -8655,9 +8655,9 @@
        text-anchor="start"
        cursor="pointer">Окская улица</text>
     <circle
-       id="s15_11_Yugo_Vostochnaya"
+       id="line15_Yugo_Vostochnaya"
        class="station"
-       mclass="s15_1"
+       mclass="line15_1"
        fill="#f5f5dc"
        stroke="#de62be"
        stroke-width="1.4125180038183978"
@@ -8668,7 +8668,7 @@
          id="title100">station</title>
     </circle>
     <text
-       id="ts15_1_Yugo_Vostochnaya"
+       id="tline15_Yugo_Vostochnaya"
        class="station"
        x="1709.0748199618158"
        y="941.1167386819403"
@@ -8678,9 +8678,9 @@
        text-anchor="end"
        cursor="pointer">Юго-восточная</text>
     <circle
-       id="s15_11_Kosino"
+       id="line15_Kosino"
        class="station"
-       mclass="s15_2"
+       mclass="line15_2"
        fill="#de62be"
        stroke="#de62be"
        stroke-width="1.4125180038183978"
@@ -8691,7 +8691,7 @@
          id="title101">station</title>
     </circle>
     <text
-       id="ts15_2_Kosino"
+       id="tline15_Kosino"
        class="station"
        x="1805.9668106972138"
        y="1018.9834053486069"
@@ -8701,9 +8701,9 @@
        text-anchor="start"
        cursor="pointer">Косино</text>
     <circle
-       id="s15_11_Ulitsa_Dmitrievskogo"
+       id="line15_Ulitsa_Dmitrievskogo"
        class="station"
-       mclass="s15_1"
+       mclass="line15_1"
        fill="#f5f5dc"
        stroke="#de62be"
        stroke-width="1.4125180038183978"
@@ -8714,7 +8714,7 @@
          id="title102">station</title>
     </circle>
     <text
-       id="ts15_1_Ulitsa_Dmitrievskogo"
+       id="tline15_Ulitsa_Dmitrievskogo"
        class="station"
        x="1825.874819961816"
        y="1104.31673868194"
@@ -8724,9 +8724,9 @@
        text-anchor="end"
        cursor="pointer">Ул. Дмитриевского</text>
     <circle
-       id="s15_11_Kosino_Ukhtomskaya"
+       id="line15_Kosino_Ukhtomskaya"
        class="station"
-       mclass="s15_1"
+       mclass="line15_1"
        fill="#f5f5dc"
        stroke="#de62be"
        stroke-width="1.4125180038183978"
@@ -8737,7 +8737,7 @@
          id="title104">station</title>
     </circle>
     <text
-       id="ts15_1_Kosino_Ukhtomskaya"
+       id="tline15_Kosino_Ukhtomskaya"
        class="station"
        x="1825.874819961816"
        y="1152.31673868194"
@@ -8747,9 +8747,9 @@
        text-anchor="end"
        cursor="pointer">Лухмановская</text>
     <circle
-       id="s15_11_Nekrasovka"
+       id="line15_Nekrasovka"
        class="station"
-       mclass="s15_1"
+       mclass="line15_1"
        fill="#f5f5dc"
        stroke="#de62be"
        stroke-width="1.4125180038183978"
@@ -8760,7 +8760,7 @@
          id="title103">station</title>
     </circle>
     <text
-       id="ts15_1_Nekrasovka"
+       id="tline15_Nekrasovka"
        class="station"
        x="1825.874819961816"
        y="1200.31673868194"
@@ -8770,9 +8770,9 @@
        text-anchor="end"
        cursor="pointer">Некрасовка</text>
     <circle
-       id="s16_13_15_Sevastopol_Prospekt"
+       id="line16_Sevastopol_Prospekt"
        class="station"
-       mclass="s16_2"
+       mclass="line16_2"
        fill="#554d26"
        stroke="#554d26"
        stroke-width="2.8250360076367955"
@@ -8783,7 +8783,7 @@
          id="title137">station</title>
     </circle>
     <text
-       id="ts16_2_Sevastopol_Prospekt"
+       id="tline16_Sevastopol_Prospekt"
        class="station"
        x="896.6334773638805"
        y="1090.3336213944276"
@@ -8793,9 +8793,9 @@
        text-anchor="start"
        cursor="pointer">Севастопол. пр-т</text>
     <circle
-       id="s16_13_Akademicheskaya"
+       id="line16_Akademicheskaya"
        class="station"
-       mclass="s16_1"
+       mclass="line16_1"
        fill="#554d26"
        stroke="#554d26"
        stroke-width="1.4125180038183978"
@@ -8806,9 +8806,9 @@
          id="title136">Akademicheskaya</title>
     </circle>
     <circle
-       id="s16_13_Novatorskaya"
+       id="line16_Novatorskaya"
        class="station"
-       mclass="s16_1"
+       mclass="line16_1"
        fill="#554d26"
        stroke="#554d26"
        stroke-width="1.4125180038183978"
@@ -8819,7 +8819,7 @@
          id="title135">station</title>
     </circle>
     <circle
-       id="s16_13_Univer_Dr_Narodov"
+       id="line16_Univer_Dr_Narodov"
        class="station"
        mclass="s16"
        fill="#f5f5dc"
@@ -8832,7 +8832,7 @@
          id="title134">station</title>
     </circle>
     <text
-       id="ts16_Univer_Dr_Narodov"
+       id="tline16_Univer_Dr_Narodov"
        class="station"
        x="481.7001440305472"
        y="1109.6500720152735"
@@ -8842,7 +8842,7 @@
        text-anchor="start"
        cursor="pointer">Ун-т Дружбы Народов</text>
     <circle
-       id="s16_13_Generala_Tuleneva"
+       id="line16_Generala_Tuleneva"
        class="station"
        mclass="s16"
        fill="#f5f5dc"
@@ -8855,7 +8855,7 @@
          id="title133">station</title>
     </circle>
     <text
-       id="ts16_Generala_Tuleneva"
+       id="tline16_Generala_Tuleneva"
        class="station"
        x="446.50014403054723"
        y="1146.9834053486068"
@@ -8865,7 +8865,7 @@
        text-anchor="start"
        cursor="pointer">Генерала Тюленева</text>
     <circle
-       id="s16_13_Tutchevskaya"
+       id="line16_Tutchevskaya"
        class="station"
        mclass="s16"
        fill="#f5f5dc"
@@ -8878,7 +8878,7 @@
          id="title132">station</title>
     </circle>
     <text
-       id="ts16_Tutchevskaya"
+       id="tline16_Tutchevskaya"
        class="station"
        x="410.2334773638806"
        y="1184.31673868194"
@@ -8888,7 +8888,7 @@
        text-anchor="start"
        cursor="pointer">Тютчевская</text>
     <circle
-       id="s16_13_Kornilovskaya"
+       id="line16_Kornilovskaya"
        class="station"
        mclass="s16"
        fill="#f5f5dc"
@@ -8901,7 +8901,7 @@
          id="title131">station</title>
     </circle>
     <text
-       id="ts16_Kornilovskaya"
+       id="tline16_Kornilovskaya"
        class="station"
        x="374.50014403054723"
        y="1221.6500720152735"
@@ -8911,7 +8911,7 @@
        text-anchor="start"
        cursor="pointer">Корниловская</text>
     <circle
-       id="s16_13_Kommunarka"
+       id="line16_Kommunarka"
        class="station"
        mclass="s16"
        fill="#f5f5dc"
@@ -8924,7 +8924,7 @@
          id="title130">station</title>
     </circle>
     <text
-       id="ts16_Kommunarka"
+       id="tline16_Kommunarka"
        class="station"
        x="339.3001440305472"
        y="1258.9834053486068"
@@ -8934,9 +8934,9 @@
        text-anchor="start"
        cursor="pointer">Коммунарка</text>
     <circle
-       id="s16_13_Novomoskovskaya"
+       id="line16_Novomoskovskaya"
        class="station"
-       mclass="s16_1"
+       mclass="line16_1"
        fill="#554d26"
        stroke="#554d26"
        stroke-width="1.4125180038183978"
@@ -8947,7 +8947,7 @@
          id="title129">station</title>
     </circle>
     <text
-       id="ts16_1_Novomoskovskaya"
+       id="tline16_Novomoskovskaya"
        class="station"
        x="313.7001440305473"
        y="1302.6002880610943"
@@ -8957,7 +8957,7 @@
        text-anchor="start"
        cursor="pointer">Новомосковская</text>
     <circle
-       id="smcd1_Odintsovo"
+       id="line17_Odintsovo"
        class="station"
        mclass="smcd1"
        fill="#fa842f"
@@ -8970,7 +8970,7 @@
          id="title334">station</title>
     </circle>
     <text
-       id="tsmcd1_Odintsovo"
+       id="tline17_Odintsovo"
        class="station"
        x="-180.6998559694528"
        y="698.9834053486069"
@@ -8980,7 +8980,7 @@
        text-anchor="start"
        cursor="pointer">Одинцово (D1)</text>
     <circle
-       id="smcd1_______________"
+       id="line17_______________"
        class="station"
        mclass="smcd1"
        fill="#fa842f"
@@ -8993,7 +8993,7 @@
          id="title333">station</title>
     </circle>
     <circle
-       id="smcd1_Skolkovo"
+       id="line17_Skolkovo"
        class="station"
        mclass="smcd1"
        fill="#fa842f"
@@ -9006,7 +9006,7 @@
          id="title332">station</title>
     </circle>
     <circle
-       id="smcd1_Nemchinovka"
+       id="line17_Nemchinovka"
        class="station"
        mclass="smcd1"
        fill="#fa842f"
@@ -9019,9 +9019,9 @@
          id="title331">station</title>
     </circle>
     <circle
-       id="smcd1_1_Kuntsevskaya"
+       id="line17_Kuntsevskaya"
        class="station"
-       mclass="smcd1_1"
+       mclass="line17_1"
        fill="#fa842f"
        stroke="#fa842f"
        stroke-width="1.4125180038183978"
@@ -9032,9 +9032,9 @@
          id="title330">station</title>
     </circle>
     <circle
-       id="smcd1_1_Slavyansky_Bulvar"
+       id="line17_Slavyansky_Bulvar"
        class="station"
-       mclass="smcd1_1"
+       mclass="line17_1"
        fill="#fa842f"
        stroke="#fa842f"
        stroke-width="1.4125180038183978"
@@ -9045,9 +9045,9 @@
          id="title329">station</title>
     </circle>
     <circle
-       id="smcd1_1_Fili"
+       id="line17_Fili"
        class="station"
-       mclass="smcd1_1"
+       mclass="line17_1"
        fill="#fa842f"
        stroke="#fa842f"
        stroke-width="1.4125180038183978"
@@ -9058,9 +9058,9 @@
          id="title328">station</title>
     </circle>
     <circle
-       id="smcd1_1_Okruzhnaya"
+       id="line17_Okruzhnaya"
        class="station"
-       mclass="smcd1_1"
+       mclass="line17_1"
        fill="#fa842f"
        stroke="#fa842f"
        stroke-width="1.4125180038183978"
@@ -9071,7 +9071,7 @@
          id="title327">station</title>
     </circle>
     <circle
-       id="smcd1_Lobnya"
+       id="line17_Lobnya"
        class="station"
        mclass="smcd1"
        fill="#fa842f"
@@ -9084,7 +9084,7 @@
          id="title2">station</title>
     </circle>
     <text
-       id="tsmcd1_Lobnya"
+       id="tline17_Lobnya"
        class="station"
        x="891.3001440305471"
        y="-479.6832613180597"
@@ -9094,7 +9094,7 @@
        text-anchor="start"
        cursor="pointer">Лобня (D1)</text>
     <circle
-       id="smcd2_16_Podolsk"
+       id="line18_Podolsk"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9107,7 +9107,7 @@
          id="title356">station</title>
     </circle>
     <text
-       id="tsmcd2_Podolsk"
+       id="tline18_Podolsk"
        class="station"
        x="1123.4585133715173"
        y="1568"
@@ -9116,7 +9116,7 @@
        font-size="15.36"
        cursor="pointer">Подольск (D2)</text>
     <circle
-       id="smcd2_16_Silikatnaya"
+       id="line18_Silikatnaya"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9129,7 +9129,7 @@
          id="title355">station</title>
     </circle>
     <circle
-       id="smcd2_16_Ostafievo"
+       id="line18_Ostafievo"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9142,7 +9142,7 @@
          id="title354">station</title>
     </circle>
     <circle
-       id="smcd2_16_Scherbinka"
+       id="line18_Scherbinka"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9155,7 +9155,7 @@
          id="title353">station</title>
     </circle>
     <circle
-       id="smcd2_16_Butovo"
+       id="line18_Butovo"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9168,7 +9168,7 @@
          id="title352">station</title>
     </circle>
     <circle
-       id="smcd2_16_Bitsa"
+       id="line18_Bitsa"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9181,7 +9181,7 @@
          id="title351">station</title>
     </circle>
     <circle
-       id="smcd2_16_Krasniy_Stroitel"
+       id="line18_Krasniy_Stroitel"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9194,7 +9194,7 @@
          id="title350">station</title>
     </circle>
     <circle
-       id="smcd2_16_Pokrovskaya"
+       id="line18_Pokrovskaya"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9207,9 +9207,9 @@
          id="title349">station</title>
     </circle>
     <circle
-       id="smcd2_16_Tsaritsyno"
+       id="line18_Tsaritsyno"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9220,9 +9220,9 @@
          id="title348">station</title>
     </circle>
     <circle
-       id="smcd2_16_Kubanskaya"
+       id="line18_Kubanskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9233,9 +9233,9 @@
          id="title347">station</title>
     </circle>
     <circle
-       id="smcd2_16_Tekstilshchiki"
+       id="line18_Tekstilshchiki"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9246,9 +9246,9 @@
          id="title346">station</title>
     </circle>
     <circle
-       id="smcd2_16_Novohohlovskaya"
+       id="line18_Novohohlovskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9259,9 +9259,9 @@
          id="title345">station</title>
     </circle>
     <circle
-       id="smcd2_16_Moskva_Tovarnaya"
+       id="line18_Moskva_Tovarnaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9272,9 +9272,9 @@
          id="title344">station</title>
     </circle>
     <circle
-       id="smcd2_16_Kurskaya"
+       id="line18_Kurskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9285,9 +9285,9 @@
          id="title343">station</title>
     </circle>
     <circle
-       id="smcd2_16_Kalanchevskaya"
+       id="line18_Kalanchevskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9298,9 +9298,9 @@
          id="title342">station</title>
     </circle>
     <circle
-       id="smcd2_16_Rizhskaya"
+       id="line18_Rizhskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9311,9 +9311,9 @@
          id="title19">station</title>
     </circle>
     <circle
-       id="smcd2_16_Marina_Roshcha"
+       id="line18_Marina_Roshcha"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9324,9 +9324,9 @@
          id="title341">station</title>
     </circle>
     <circle
-       id="smcd2_16_Dmitrovskaya"
+       id="line18_Dmitrovskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9337,9 +9337,9 @@
          id="title340">station</title>
     </circle>
     <circle
-       id="smcd2_16_Streshnevo"
+       id="line18_Streshnevo"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9350,9 +9350,9 @@
          id="title339">station</title>
     </circle>
     <circle
-       id="smcd2_16_Pokrov_Streshnevo"
+       id="line18_Pokrov_Streshnevo"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9363,9 +9363,9 @@
          id="title338">station</title>
     </circle>
     <circle
-       id="smcd2_16_Tushinskaya"
+       id="line18_Tushinskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9376,9 +9376,9 @@
          id="title337">station</title>
     </circle>
     <circle
-       id="smcd2_16_Volokolamskaya"
+       id="line18_Volokolamskaya"
        class="station"
-       mclass="smcd2_1"
+       mclass="line18_1"
        fill="#e29ec0"
        stroke="#e29ec0"
        stroke-width="1.4125180038183978"
@@ -9389,7 +9389,7 @@
          id="title336">station</title>
     </circle>
     <circle
-       id="smcd2_16_Nahabino"
+       id="line18_Nahabino"
        class="station"
        mclass="smcd2"
        fill="#e29ec0"
@@ -9402,7 +9402,7 @@
          id="title335">station</title>
     </circle>
     <text
-       id="tsmcd2_Nahabino"
+       id="tline18_Nahabino"
        class="station"
        x="-92.54148662848255"
        y="-202.66666666666663"
@@ -9411,7 +9411,7 @@
        font-size="15.36"
        cursor="pointer">Нахабино (D2)</text>
     <circle
-       id="smcd3_14_Krjukovo"
+       id="line19_Krjukovo"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9424,7 +9424,7 @@
          id="title16">station</title>
     </circle>
     <text
-       id="tsmcd3_Krjukovo"
+       id="tline19_Krjukovo"
        class="station"
        x="334.125180038184"
        y="-352"
@@ -9433,9 +9433,9 @@
        font-size="15.36"
        cursor="pointer">Крюково (D3)</text>
     <circle
-       id="smcd3_14_Khovrino"
+       id="line19_Khovrino"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9446,9 +9446,9 @@
          id="title17">station</title>
     </circle>
     <circle
-       id="smcd3_14_Petr_Razumovskaya"
+       id="line19_Petr_Razumovskaya"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9459,9 +9459,9 @@
          id="title18">station</title>
     </circle>
     <circle
-       id="smcd3_14_Elektrozavodskaya"
+       id="line19_Elektrozavodskaya"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9472,9 +9472,9 @@
          id="title20">station</title>
     </circle>
     <circle
-       id="smcd3_14_Aviamotornaya"
+       id="line19_Aviamotornaya"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9485,9 +9485,9 @@
          id="title21">station</title>
     </circle>
     <circle
-       id="smcd3_14_Ryazan_Prospekt"
+       id="line19_Ryazan_Prospekt"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9498,9 +9498,9 @@
          id="title257">station</title>
     </circle>
     <circle
-       id="smcd3_14_Vykhino"
+       id="line19_Vykhino"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9511,9 +9511,9 @@
          id="title191">station</title>
     </circle>
     <circle
-       id="smcd3_14_Kosino"
+       id="line19_Kosino"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9524,9 +9524,9 @@
          id="title292">station</title>
     </circle>
     <circle
-       id="smcd3_14_Uhtomskaya"
+       id="line19_Uhtomskaya"
        class="station"
-       mclass="smcd3_1"
+       mclass="line19_1"
        fill="#e17a4b"
        stroke="#e17a4b"
        stroke-width="1.4125180038183978"
@@ -9537,7 +9537,7 @@
          id="title293">station</title>
     </circle>
     <circle
-       id="smcd3_14_Ljubercy-1"
+       id="line19_Ljubercy-1"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9550,7 +9550,7 @@
          id="title294">station</title>
     </circle>
     <circle
-       id="smcd3_14_Panki"
+       id="line19_Panki"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9563,7 +9563,7 @@
          id="title295">station</title>
     </circle>
     <circle
-       id="smcd3_14_Tomilino"
+       id="line19_Tomilino"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9576,7 +9576,7 @@
          id="title296">station</title>
     </circle>
     <circle
-       id="smcd3_14_Kraskovo"
+       id="line19_Kraskovo"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9589,7 +9589,7 @@
          id="title297">station</title>
     </circle>
     <circle
-       id="smcd3_14_Malakhovka"
+       id="line19_Malakhovka"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9602,7 +9602,7 @@
          id="title298">station</title>
     </circle>
     <circle
-       id="smcd3_14_Udelnaya"
+       id="line19_Udelnaya"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9615,7 +9615,7 @@
          id="title299">station</title>
     </circle>
     <circle
-       id="smcd3_14_Bykovo"
+       id="line19_Bykovo"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9628,7 +9628,7 @@
          id="title300">station</title>
     </circle>
     <circle
-       id="smcd3_14_Iliinskaya"
+       id="line19_Iliinskaya"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9641,7 +9641,7 @@
          id="title301">station</title>
     </circle>
     <circle
-       id="smcd3_14_Otdyh"
+       id="line19_Otdyh"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9654,7 +9654,7 @@
          id="title302">station</title>
     </circle>
     <circle
-       id="smcd3_14_Kratovo"
+       id="line19_Kratovo"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9667,7 +9667,7 @@
          id="title303">station</title>
     </circle>
     <circle
-       id="smcd3_14_Eseninskaya"
+       id="line19_Eseninskaya"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9680,7 +9680,7 @@
          id="title304">station</title>
     </circle>
     <circle
-       id="smcd3_14_Fabrichnaya"
+       id="line19_Fabrichnaya"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9693,7 +9693,7 @@
          id="title305">station</title>
     </circle>
     <circle
-       id="smcd3_14_Ramenskoe"
+       id="line19_Ramenskoe"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9706,7 +9706,7 @@
          id="title306">station</title>
     </circle>
     <circle
-       id="smcd3_14_Ippodrom"
+       id="line19_Ippodrom"
        class="station"
        mclass="smcd3"
        fill="#e17a4b"
@@ -9719,7 +9719,7 @@
          id="title307">station</title>
     </circle>
     <text
-       id="tsmcd3_Ippodrom"
+       id="tline19_Ippodrom"
        class="station"
        x="1827.4585133715173"
        y="1514.6666666666665"
@@ -9728,9 +9728,9 @@
        font-size="15.36"
        cursor="pointer">Ипподром (D3)</text>
     <circle
-       id="smcd4A_Solnechnaya"
+       id="line20__Solnechnaya"
        class="station"
-       mclass="smcd4A"
+       mclass="line20_"
        fill="#9cd9c0"
        stroke="#9cd9c0"
        stroke-width="1.4125180038183978"
@@ -9738,9 +9738,9 @@
        cy="821.3333333333333"
        r="2.8250360076367955" />
     <circle
-       id="smcd4A_17_Novoperedelkino"
+       id="line20__Novoperedelkino"
        class="station"
-       mclass="smcd4A"
+       mclass="line20_"
        fill="#9cd9c0"
        stroke="#9cd9c0"
        stroke-width="1.4125180038183978"
@@ -9751,7 +9751,7 @@
          id="title378">station</title>
     </circle>
     <circle
-       id="smcd4_17_Aprelevka"
+       id="line20_Aprelevka"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9764,7 +9764,7 @@
          id="title367">station</title>
     </circle>
     <text
-       id="tsmcd4_Aprelevka"
+       id="tline20_Aprelevka"
        class="station"
        x="-92.54148662848255"
        y="1141.3333333333333"
@@ -9773,7 +9773,7 @@
        font-size="15.36"
        cursor="pointer">Апрелевка (D4)</text>
     <circle
-       id="smcd4_17_Pobeda"
+       id="line20_Pobeda"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9786,7 +9786,7 @@
          id="title368">station</title>
     </circle>
     <circle
-       id="smcd4_17_Krekshino"
+       id="line20_Krekshino"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9799,7 +9799,7 @@
          id="title369">station</title>
     </circle>
     <circle
-       id="smcd4_17_Sanino"
+       id="line20_Sanino"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9812,7 +9812,7 @@
          id="title370">station</title>
     </circle>
     <circle
-       id="smcd4_17_Kokoshkino"
+       id="line20_Kokoshkino"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9825,7 +9825,7 @@
          id="title371">station</title>
     </circle>
     <circle
-       id="smcd4_17_Tolstopaltsevo"
+       id="line20_Tolstopaltsevo"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9838,7 +9838,7 @@
          id="title372">station</title>
     </circle>
     <circle
-       id="smcd4_17_Lesnoy_Gorodok"
+       id="line20_Lesnoy_Gorodok"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9851,7 +9851,7 @@
          id="title373">station</title>
     </circle>
     <circle
-       id="smcd4_17_Vnukovo"
+       id="line20_Vnukovo"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9864,7 +9864,7 @@
          id="title374">station</title>
     </circle>
     <circle
-       id="smcd4_17_Michurinets"
+       id="line20_Michurinets"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9877,7 +9877,7 @@
          id="title375">station</title>
     </circle>
     <circle
-       id="smcd4_17_Peredelkino"
+       id="line20_Peredelkino"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9890,7 +9890,7 @@
          id="title376">station</title>
     </circle>
     <circle
-       id="smcd4_17_Solnechnaya"
+       id="line20_Solnechnaya"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9903,7 +9903,7 @@
          id="title377">station</title>
     </circle>
     <circle
-       id="smcd4_17_Mescherskaya"
+       id="line20_Mescherskaya"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9916,7 +9916,7 @@
          id="title379">station</title>
     </circle>
     <circle
-       id="smcd4_4_17_Aminyevskaya"
+       id="line20_Aminyevskaya"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9929,7 +9929,7 @@
          id="title288">station</title>
     </circle>
     <circle
-       id="smcd4_17_Zheleznodorozhniy"
+       id="line20_Zheleznodorozhniy"
        class="station"
        mclass="smcd4"
        fill="#9cd9c0"
@@ -9942,7 +9942,7 @@
          id="title380">station</title>
     </circle>
     <text
-       id="tsmcd4_Zheleznodorozhniy"
+       id="tline20_Zheleznodorozhniy"
        class="station"
        x="1880.7918467048505"
        y="181.33333333333337"
