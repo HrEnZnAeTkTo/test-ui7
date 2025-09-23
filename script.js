@@ -297,7 +297,19 @@ async function loadMetroMap() {
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
+        svgElement = container.querySelector('svg');
+    if (svgElement) {
+        // Корректируем viewBox для показа всей карты
+        svgElement.setAttribute('viewBox', '-400 -500 2400 2100');
+        svgElement.removeAttribute('width');
+        svgElement.removeAttribute('height');
         
+        // Находим основную группу и убираем/корректируем transform
+        const mainGroup = svgElement.querySelector('g#g15');
+        if (mainGroup) {
+            mainGroup.setAttribute('transform', '');
+        }
+    }
         const svgContent = await response.text();
         const container = document.getElementById('svg-container');
         if (svgElement) {
@@ -1093,3 +1105,4 @@ if (document.readyState === 'loading') {
 // Start real-time updates
 
 startRealTimeUpdates();
+
